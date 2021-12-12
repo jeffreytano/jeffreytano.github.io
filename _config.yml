@@ -105,7 +105,7 @@ author:
   name             : "Jeffrey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Polytechnic University of Hong Kong undergraduate."
-  location         : "Somewhere"
+  location         : "Hong Kong"
   email            :
   links:
     - label: "Email"

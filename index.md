@@ -2,5 +2,5 @@
 layout: home
 author_profile: true
 ---
-#Entertainment
+#Title
 Gaming and YouTube

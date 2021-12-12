@@ -2,5 +2,5 @@
 layout: home
 author_profile: true
 ---
-## Title 2
+Title
 Gaming and YouTube

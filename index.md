@@ -1,7 +1,6 @@
 ---
 layout: home
 author_profile: true
-permalink: /index/
 ---
 Title
 Gaming and YouTube

@@ -8,6 +8,6 @@ author_profile: true
 {% capture written_label %}'None'{% endcapture %}
 
 {% for LectureNotes in site.LectureNotes %}
-  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
-  <p>{{ staff_member.content | markdownify }}</p>
+  <h2>{{ LectureNotes.title }}</h2>
+  <p>{{ LectureNotes.content | markdownify }}</p>
 {% endfor %}

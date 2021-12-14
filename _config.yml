@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # collections
-Collections:
+collections:
   LectureNotes:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:name
     
     
 

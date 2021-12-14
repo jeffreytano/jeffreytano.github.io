@@ -1,13 +1,7 @@
 ---
-layout: archive
+layout: collection
 title: "LectureNotesList"
 permalink: /LectureNotesList/
 author_profile: true
+collection: LectureNotes
 ---
-
-{% capture written_label %}'None'{% endcapture %}
-
-{% for LectureNotes in site.LectureNotes %}
-  <h2>{{ LectureNotes.title }}</h2>
-  <p>{{ LectureNotes.content | markdownify }}</p>
-{% endfor %}

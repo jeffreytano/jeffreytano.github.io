@@ -1,0 +1,13 @@
+---
+layout: archive
+title: "LectureNotesList"
+permalink: /LectureNotesList/
+author_profile: true
+---
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for LectureNotes in site.LectureNotes %}
+  <h2>{{ staff_member.name }} - {{ staff_member.position }}</h2>
+  <p>{{ staff_member.content | markdownify }}</p>
+{% endfor %}

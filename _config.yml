@@ -116,7 +116,7 @@ author:
   location         : "Hong Kong"
   email            : jeffreytano131@gmail.com
   links:
-    - label: "Email"
+    - label: "Emails"
       icon: "fas fa-fw fa-envelope-square"
       url: "jeffreytano131@gmail.com"
     - label: "Website"

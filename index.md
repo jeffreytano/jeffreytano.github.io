@@ -5,8 +5,8 @@ author_profile: true
 ## Introduction
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
 
-[Qualification](/qualification/){: .btn}
-[WorkExperience](/workexp/){: .btn}
+[Qualification](/qualification/)
+[WorkExperience](/workexp/)
 
 ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}

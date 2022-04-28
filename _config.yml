@@ -24,7 +24,7 @@ collections:
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hairo"
+title                    : "Hairo - Hairo2"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pun Ching Lok Jeffrey"
@@ -110,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeffrey Pun"
+  name             : "Jeffrey"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Polytechnic University of Hong Kong undergraduate."
   location         : "Hong Kong"

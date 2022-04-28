@@ -114,7 +114,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Polytechnic University of Hong Kong undergraduate."
   location         : "Hong Kong"
-  email            :
+  email            : jeffreytano131@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

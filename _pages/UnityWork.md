@@ -5,7 +5,7 @@ permalink: /unitywork/
 ---
 ## Dodge-diator
 ![Dodge-diator](/image/dodge-diator.png)
-[Demo-picture-Dodge](/image/dodge-diator-demo.png)
+![Demo-picture-Dodge](/image/dodge-diator-demo.png)
 
 Web game
 [Link to the game](https://simmer.io/@t6704tcs/dodge-diator)
@@ -15,7 +15,7 @@ Web game
 
 ## Rab the weapon master
 [[/image/Rab.png|width=100px]]
-[Demo-picture-Rab](/image/Rab-demo.png)
+![Demo-picture-Rab](/image/Rab-demo.png)
 Smartphone game (apk)
 
 [Demo video](https://youtu.be/s2F5Tz3WNZM)

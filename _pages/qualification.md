@@ -25,7 +25,6 @@ F.1 to F.6
 
 
 [back to home](https://jeffreytano.github.io/)
-[back to home2](/index/)
 
 
 

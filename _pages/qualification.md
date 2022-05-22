@@ -8,8 +8,11 @@ The Hong Kong Polytechnic University
 
 Major: BSc (Hons) Internet & Multimedia Technologies
 
-[LectureNotes]
-[Works]
+<!-- [LectureNotes] -->
+
+### Works
+[Blender](/blenderlessonwork/)
+[Unity](/unitywork/)
 
 ## DSE examination (2018)
 | Subject | Chinese | English | Math | Liberal Studies | Physics | Chemistry | ICT | M2 |

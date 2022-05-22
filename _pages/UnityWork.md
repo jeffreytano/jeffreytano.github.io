@@ -6,7 +6,7 @@ permalink: /unitywork/
 ## Dodge-diator
 
 Web game
-Link: https://simmer.io/@t6704tcs/dodge-diator
+[Link to the game](https://simmer.io/@t6704tcs/dodge-diator)
 
 Demo video
 

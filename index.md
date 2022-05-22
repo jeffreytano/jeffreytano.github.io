@@ -5,19 +5,18 @@ author_profile: true
 ---
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
 
-[Qualification](/qualification/){: .btn}
-[WorkExperience](/workexp/){: .btn}
-
+[Qualification](/qualification/)
+[WorkExperience](/workexp/)
 ### Unity Work done
-[UnityShowCase](/unitywork/){: .btn}
+[UnityShowCase](/unitywork/)
 
 ### Blender Work done
-[BlenderShowCase](/blenderwork/){: .btn}
-[BlenderLessonWork](/blenderlessonwork/){: .btn}
+[BlenderShowCase](/blenderwork/)
+[BlenderLessonWork](/blenderlessonwork/)
 
 ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}
-[testing2](/test1/){: .btn}
-[EIE3103](/LectureNotes/EIE3103/){: .btn}
+[testing2](/test1/)
+[EIE3103](/LectureNotes/EIE3103/)
 
 [LectureNotes](/LectureNotes/)

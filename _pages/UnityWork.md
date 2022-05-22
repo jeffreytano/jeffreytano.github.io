@@ -8,8 +8,7 @@ permalink: /unitywork/
 Web game
 [Link to the game](https://simmer.io/@t6704tcs/dodge-diator)
 
-Demo video
-[Dodge-diator](https://youtu.be/s2F5Tz3WNZM)
+[Demo video](https://youtu.be/s2F5Tz3WNZM)
 
 
 ## Rab the weapon master
@@ -17,4 +16,4 @@ Demo video
 Smartphone game (apk)
 
 Demo video
-[Rab the weapon master](https://youtu.be/s2F5Tz3WNZM)
+[Demo video](https://youtu.be/s2F5Tz3WNZM)

@@ -3,7 +3,6 @@ layout: single
 title: "Blender work done"
 permalink: /blenderwork/
 ---
-
 ## Low-poly horse model
 ![Low Poly Horse](/image/horse.png)
 
@@ -16,5 +15,17 @@ Horse Running
 
 Horse Walking
 ![Low Poly Horse Walking](/image/horseWalking512.gif)
+
+## Pen
+uni Kuru Toga
+![uni Kuru Toga](/image/pen.png)
+
+## Scene with object
+![Scene](/image/wk03.png)
+
+## Other Blender work
+[Lesson Work](/blenderlessonwork/)
+
+<!-- [Group Project](/blenderGroup/) -->
 
 [back to home](/index/)

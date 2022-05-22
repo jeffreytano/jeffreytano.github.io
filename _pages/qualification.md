@@ -24,7 +24,7 @@ Pui Ching Middle School
 F.1 to F.6
 
 
-[back to home](/index/)
+[back to home](https://jeffreytano.github.io/)
 
 
 

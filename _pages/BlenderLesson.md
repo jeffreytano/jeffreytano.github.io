@@ -14,4 +14,4 @@ permalink: /blenderlessonwork/
 
 <!-- [Group Project](/blenderGroup/) -->
 
-[back to home](/index/)
+[back to home](https://jeffreytano.github.io/)

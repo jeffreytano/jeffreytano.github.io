@@ -14,7 +14,7 @@ Web game
 
 
 ## Rab the weapon master
-![Dodge-diator](/image/Rab.png =100x100)
+[[/image/Rab.png|width=100px]]
 [Demo-picture-Rab](/image/Rab-demo.png)
 Smartphone game (apk)
 

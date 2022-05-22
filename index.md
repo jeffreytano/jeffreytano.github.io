@@ -2,17 +2,16 @@
 layout: home
 # author_profile: true
 ---
-## Introduction
+<!-- ## Introduction -->
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
 
 [Qualification](/qualification/){: .btn}
 [WorkExperience](/workexp/){: .btn}
 
-## Work done
-### Unity
+### Unity Work done
 [UnityShowCase](/unitywork/){: .btn}
 
-### Blender
+### Blender Work done
 [BlenderShowCase](/blenderwork/){: .btn}
 
 ## Gaming and YouTube

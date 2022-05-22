@@ -8,6 +8,13 @@ I am a undergraduate student in The Hong Kong Polytechnic University, studying I
 [Qualification](/qualification/){: .btn}
 [WorkExperience](/workexp/){: .btn}
 
+## Work done
+### Unity
+[UnityShowCase](/unitywork/){: .btn}
+
+### Blender
+[BlenderShowCase](/blenderwork/){: .btn}
+
 ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}
 [testing2](/test1/){: .btn}

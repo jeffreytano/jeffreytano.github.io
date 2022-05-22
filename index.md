@@ -2,7 +2,7 @@
 layout: home
 author_profile: true
 ---
-# Introduction
+# 
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
 
 [Qualification](/qualification/){: .btn}

@@ -4,6 +4,7 @@ title: "Blender work done"
 permalink: /unitywork/
 ---
 ## Dodge-diator
+[![Dodge-diator](/image/dodge-diator.png)]
 
 Web game
 [Link to the game](https://simmer.io/@t6704tcs/dodge-diator)
@@ -12,7 +13,7 @@ Web game
 
 
 ## Rab the weapon master
-
+[![Dodge-diator](/image/Rab.png)]
 Smartphone game (apk)
 
 Demo video

@@ -1,6 +1,6 @@
 ---
 layout: home
-# author_profile: true
+author_profile: true
 ---
 <!-- ## Introduction -->
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
@@ -13,6 +13,7 @@ I am a undergraduate student in The Hong Kong Polytechnic University, studying I
 
 ### Blender Work done
 [BlenderShowCase](/blenderwork/){: .btn}
+[BlenderLessonWork](/blenderlessonwork/){: .btn}
 
 ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}

@@ -14,17 +14,9 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-# collections
-collections:
-  LectureNotes:
-    output: true
-    permalink: /:collection/:name
-    
-    
-
 # Site Settings
 locale                   : "en-US"
-title                    : "Hairo"
+title                    : "Jeffrey's personal website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pun Ching Lok Jeffrey"
@@ -110,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jeffrey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Jeffrey Pun Ching Lok"
+  avatar           : "/image/DSCF1188.jpg"
   bio              : "Polytechnic University of Hong Kong undergraduate."
   location         : "Hong Kong"
-  email            : jeffreytano131@gmail.com
+  email            :
   links:
-    # - label: "Emails"
-    #   icon: "fas fa-fw fa-envelope-square"
-    #   url: "jeffreytano131@gmail.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      #  url: "jeffreytano131@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -197,7 +189,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: GFM
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"

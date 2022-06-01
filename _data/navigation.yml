@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Anime watchlist"
-    url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Anime watchlist"
+  #   url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
+   - title: "Qualification"
+     url: /qualification/
+   - title: "Work Experience"
+     url: /workexp/
+   - title: "Blender Work done"
+     url: /blenderwork/
+   - title: "Unity Work done"
+     url: /unitywork/

@@ -18,4 +18,4 @@ Web game
 ![Demo-picture-Rab](/image/rab-demo.png)
 Smartphone game (apk)
 
-[Demo video](https://youtu.be/s2F5Tz3WNZM)
+[Demo video](https://youtu.be/u6QSxXlTocI)

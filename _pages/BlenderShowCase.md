@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "3D objects work done"
+# title: "3D objects work done"
 permalink: /3Dwork/
 ---
 
@@ -25,12 +25,12 @@ uni Kuru Toga
 ## Scene with objects
 ![Scene](/image/wk03.png)
 
-## Other Blender work
-[Lesson Work](/blenderlessonwork/)
-
 # 3D scene by 3DsMax
 ## School scene
 ![School scene](/image/assignment1.jpg)
+
+## Other Blender work
+[Lesson Work](/blenderlessonwork/)
 
 <!-- [Group Project](/blenderGroup/) -->
 

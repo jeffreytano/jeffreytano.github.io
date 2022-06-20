@@ -1,10 +1,10 @@
 ---
 layout: single
-# title: "3D objects work done"
+title: "3D Objects by Blender"
 permalink: /3Dwork/
 ---
 
-# 3D Objects by Blender
+<!-- #  -->
 ## Low-poly horse model 
 ![Low Poly Horse](/image/horse.png)
 

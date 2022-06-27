@@ -10,7 +10,7 @@ permalink: /blenderlessonwork/
 ![Blender Lesson work 3](/image/wk_08.png)
 
 ## Other Blender work
-[Self practise](/blenderwork/)
+[Self practise](/3Dwork/)
 
 <!-- [Group Project](/blenderGroup/) -->
 

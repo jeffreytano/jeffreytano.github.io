@@ -19,7 +19,7 @@ Major: BSc (Hons) Internet & Multimedia Technologies
 |---------|---------|---------|------|-----------------|---------|-----------|-----|----|
 | Grade   | 3       | 3       | 4    | 3               | 4       | 3         | 4   | 4  | -->
 
-Details of syllbus
+<!-- Details of syllbus -->
 
 ## Secondary School (2012 - 2018)
 Pui Ching Middle School 

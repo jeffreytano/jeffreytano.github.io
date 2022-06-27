@@ -14,10 +14,10 @@ Major: BSc (Hons) Internet & Multimedia Technologies
 [Blender](/blenderlessonwork/)
 [Unity](/unitywork/)
 
-## DSE examination (2018)
+<!-- ## DSE examination (2018)
 | Subject | Chinese | English | Math | Liberal Studies | Physics | Chemistry | ICT | M2 |
 |---------|---------|---------|------|-----------------|---------|-----------|-----|----|
-| Grade   | 3       | 3       | 4    | 3               | 4       | 3         | 4   | 4  |
+| Grade   | 3       | 3       | 4    | 3               | 4       | 3         | 4   | 4  | -->
 
 Details of syllbus
 

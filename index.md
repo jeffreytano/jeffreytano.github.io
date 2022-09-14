@@ -3,13 +3,13 @@ layout: single
 author_profile: true
 # permalink: /index/
 ---
+Intro
 I am a undergraduate student in The Hong Kong Polytechnic University, studying Internet and Multimedia Technology.
-As a enthusiast of Japanese culture, I learn Japenese by mostly self studying and barely able to communicate with Japanese.
+As a enthusiast of Japanese culture, I learn Japenese by mostly self studying and barely able to communicate in Japanese.
 
 僕の名前は潘正樂、香港人です。　
-香港理工大学で勉強している大学生です。予定2022年の夏で卒業。 
+香港理工大学で勉強している大学生です。2022年の夏で卒業。 
 日本の文化とエンターテインメントが好きで、ある程度日本語に自習しました  
-最近は日本の配信とVTuberにはまってます
 
 [Qualification](/qualification/)
 [WorkExperience](/workexp/)

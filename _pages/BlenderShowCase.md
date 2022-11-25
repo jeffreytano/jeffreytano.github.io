@@ -18,18 +18,18 @@ Horse Running
 Horse Walking 
 ![Low Poly Horse Walking](/image/horseWalking512.gif)
 
+## Black room scene
+![Stray scene](/image/StrayScenev2.png)
+
+## Classroom scene
+![Classroom scene](/image/classroomv2.png)
+
 ## Pen 
 uni Kuru Toga 
 ![uni Kuru Toga](/image/pen.png)
 
 ## Scene with objects
 ![Scene](/image/wk03.png)
-
-## Black room scene
-![Stray scene](/image/StrayScenev2.png)
-
-## Classroom scene
-![Classroom scene](/image/classroomv2.png)
 
 # 3D scene by 3DsMax
 ## School scene

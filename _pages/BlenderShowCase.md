@@ -22,7 +22,7 @@ Horse Walking
 ![Stray scene](/image/StrayScenev2.png)
 
 ## Classroom scene
-![Classroom scene](/image/classroomv2.png)
+![Classroom scene](/image/classroomv4.png)
 
 ## Pen 
 uni Kuru Toga 

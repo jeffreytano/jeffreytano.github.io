@@ -25,6 +25,12 @@ uni Kuru Toga
 ## Scene with objects
 ![Scene](/image/wk03.png)
 
+## Black room scene
+![Stray scene](/image/StrayScenev2.png)
+
+## Classroom scene
+![Classroom scene](/image/classroomv2.png)
+
 # 3D scene by 3DsMax
 ## School scene
 ![School scene](/image/assignment1.jpg)

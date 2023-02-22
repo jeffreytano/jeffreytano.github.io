@@ -24,7 +24,7 @@ Watching anime and streams from both Japan and NA is my daily entertainment.  I 
 [UnityShowCase](/unitywork/)
 
 ### Blender Work done
-[BlenderShowCase](/blenderwork/)
+[BlenderShowCase](/3Dwork/)
 [BlenderLessonWork](/blenderlessonwork/)
 
 

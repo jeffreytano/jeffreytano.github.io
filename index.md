@@ -21,15 +21,6 @@ Watching anime and streams from both Japan and NA is my daily entertainment.  I 
 香港理工大学で勉強している大学生です。2022年の夏で卒業。 
 日本の文化とエンターテインメントが好きで、ある程度日本語に自習しました  
 
-[Qualification](/qualification/)
-[WorkExperience](/workexp/)
-### Unity Work done
-[UnityShowCase](/unitywork/)
-
-### Blender Work done
-[BlenderShowCase](/3Dwork/)
-[BlenderLessonWork](/blenderlessonwork/)
-
 
 <!-- ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}

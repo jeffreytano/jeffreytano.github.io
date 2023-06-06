@@ -7,8 +7,13 @@ permalink: /Reactnote/
 ### React notes
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html) or [Reactdev](https://react.dev/learn)
 
-## An example for a react component
+Links to different topics
+[React component](#an-example-for-a-react-component)
+[Calling component](#to-call-a-component-defined-by-yourself)
+[Constructor and state](#constructor-of-objects-and-state)
+[Conditional rendering](#conditional-rendering)
 
+## An example for a react component
 ```
 class Square extends React.Component {
   render() {
@@ -31,7 +36,7 @@ class Board extends React.Component {
 ```
 Just call <Square/> if you defined a class **Square**
 
-## Constructor of objects
+## Constructor of objects and state
 ```
 class Square extends React.Component {
   constructor(props){
@@ -55,3 +60,37 @@ constructor(props){
 }
 ```
 The value can be array and boolean too.
+
+React component names must start with **capitial letter**, while HTML tag must be **lowercase**.
+
+## Conditional rendering
+```
+let content;
+if (isLoggedIn) {
+  content = <AdminPanel />;
+} else {
+  content = <LoginForm />;
+}
+return (
+  <div>
+    {content}
+  </div>
+);
+```
+or 
+```
+<div>
+  {isLoggedIn ? (
+    <AdminPanel />
+  ) : (
+    <LoginForm />
+  )}
+</div>
+```
+if your no need the else statement, this also work
+```
+<div>
+  {isLoggedIn && <AdminPanel />}
+</div>
+```
+

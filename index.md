@@ -2,6 +2,8 @@
 layout: single
 author_profile: true
 # permalink: /index/
+sidebar:
+  nav: "try"
 ---
 Introduction in English
 

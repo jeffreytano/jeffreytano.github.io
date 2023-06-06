@@ -42,7 +42,7 @@ class Square extends React.Component {
 ```
 In the constructor of a object, you may set state by editing `this.state` by it dictionary key like `value : null`
 
-To retrieve the state value, just call `this.state.value`, note that you can define state value by self-defined key like
+To retrieve the state value, just call `this.state.value`, note that you can define state value by self-defined key like the following
 ```
 class Board extends React.Component {
 

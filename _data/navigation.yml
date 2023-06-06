@@ -14,10 +14,10 @@ main:
      url: /unitywork/
 
 try:
-  - title: Games
+  - title: "Games"
   children:
-    - title: heaven burns red
+    - title: "heaven burns red"
       url: /hbr/
-    - title: phasmo
+    - title: "phasmo"
       url: /phasmo/
       

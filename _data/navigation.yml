@@ -36,9 +36,3 @@ defaultsidebar:
         url: /
       - title: "Child Page C2"
         url: /
-  - title: "Parent Page D"
-    children:
-      - title: "Child Page D1"
-        url: /
-      - title: "Child Page D2"
-        url: /

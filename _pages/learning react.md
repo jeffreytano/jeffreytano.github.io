@@ -7,7 +7,7 @@ permalink: /Reactnote/
 ### React notes
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html) or [Reactdev](https://react.dev/learn)
 
-##An example for a react component
+## An example for a react component
 
 ```
 class Square extends React.Component {
@@ -22,7 +22,7 @@ class Square extends React.Component {
 
 Explaination: Class 'Square' is extending the class React.component and return html codes `<button class = "sqaure"> </button>`
 
-##To call a component defined by yourself
+## To call a component defined by yourself
 ```
 class Board extends React.Component {
   renderSquare(i) {

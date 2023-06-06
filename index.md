@@ -3,8 +3,8 @@ layout: home
 author_profile: true
 # permalink: /index/
 sidebar:
-  title: "Title of sample"
-  nav: sidebar-sample
+  title: "Quick links"
+  nav: defaultsidebar
 ---
 Introduction in English
 

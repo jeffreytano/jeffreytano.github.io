@@ -13,18 +13,18 @@ main:
    - title: "Unity Work done"
      url: /unitywork/
 
-sidebar-sample:
-  - title: "Parent Page A"
+defaultsidebar:
+  - title: "Portfolio"
     children:
-      - title: "Child Page A1"
-        url: /
-      - title: "Child Page A2"
-        url: /
-      - title: "Child Page A3"
-        url: /
-      - title: "Child Page A4"
-        url: /
-  - title: "Parent Page B"
+      - title: "Blender"
+        url: /3Dwork/
+      - title: "Unity"
+        url: /unitywork/
+  - title: "Qualification"
+    url: /qualification/
+  - title: "Work Experience"
+    url: /workexp/
+  - title: Learning
     children:
       - title: "Child Page B1"
         url: /
@@ -36,9 +36,9 @@ sidebar-sample:
         url: /
       - title: "Child Page B5"
         url: /
-  - title: "Parent Page C"
+  - title: "Entertainment"
     children:
-      - title: "Child Page C1"
+      - title: "AnimeList"
         url: /
       - title: "Child Page C2"
         url: /

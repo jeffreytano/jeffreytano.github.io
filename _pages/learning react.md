@@ -7,10 +7,10 @@ permalink: /Reactnote/
 ### React notes
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html) or [Reactdev](https://react.dev/learn)
 
-Links to different topics
-[React component](#an-example-for-a-react-component)
-[Calling component](#to-call-a-component-defined-by-yourself)
-[Constructor and state](#constructor-of-objects-and-state)
+Links to different topics:\
+[React component](#an-example-for-a-react-component)\
+[Calling component](#to-call-a-component-defined-by-yourself)\
+[Constructor and state](#constructor-of-objects-and-state)\
 [Conditional rendering](#conditional-rendering)
 
 ## An example for a react component

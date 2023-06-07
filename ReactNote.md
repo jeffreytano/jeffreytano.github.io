@@ -126,6 +126,7 @@ function ListGroup() {
 }
 ```
 Use `array.map( (i) => (<li>{i}</li> )` to map each item in the array to generate array.size number of list item
+Addition: `array.map( (item,index) => (<li>{index}: {item}</li> )` can also return index in mapping
 
 
   

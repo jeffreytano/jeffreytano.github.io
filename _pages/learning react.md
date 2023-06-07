@@ -8,10 +8,10 @@ permalink: /reactnote/
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html) or [Reactdev](https://react.dev/learn)
 
 Links to different topics:\
-[React component](#an-example-for-a-react-component){: .btn}
-[Calling component](#to-call-a-component-defined-by-yourself){: .btn}
-[Constructor and state](#constructor-of-objects-and-state){: .btn}
-[Conditional rendering](#conditional-rendering){: .btn}
+[React component](#an-example-for-a-react-component){: .btn .btn--info}
+[Calling component](#to-call-a-component-defined-by-yourself){: .btn .btn--info}
+[Constructor and state](#constructor-of-objects-and-state){: .btn .btn--info}
+[Conditional rendering](#conditional-rendering){: .btn .btn--info}
 
 <!-- [React component](#an-example-for-a-react-component)\ -->
 <!-- [Calling component](#to-call-a-component-defined-by-yourself)\

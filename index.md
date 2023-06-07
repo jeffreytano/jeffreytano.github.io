@@ -22,6 +22,8 @@ Watching anime and streams from both Japan and NA is my daily entertainment.  I 
 日本の文化とエンターテインメントが好きで、ある程度日本語に自習しました  
 
 [Primary Button Text](/blenderwork/){: .btn .btn--primary}
+
+
 <!-- ## Gaming and YouTube
 [Miko sleep well3](/page1/){: .btn--primary}
 [testing2](/test1/)

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Learning React"
-permalink: /Reactnote/
+permalink: /reactnote/
 ---
 
 ### React notes

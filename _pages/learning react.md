@@ -12,6 +12,7 @@ Links to different topics:\
 [Calling component](#to-call-a-component-defined-by-yourself){: .btn .btn--info}
 [Constructor and state](#constructor-of-objects-and-state){: .btn .btn--info}
 [Conditional rendering](#conditional-rendering){: .btn .btn--info}
+[Mapping](#mapping){: .btn .btn--info}
 
 <!-- [React component](#an-example-for-a-react-component)\ -->
 <!-- [Calling component](#to-call-a-component-defined-by-yourself)\
@@ -99,3 +100,30 @@ if your no need the else statement, this also work
 </div>
 ```
 
+## Mapping
+```
+function ListGroup() {
+  const items = [
+    "Kayamori Ruka",
+    "Izumi Yuki",
+    "Asakura Karen",
+    "Toujo Tsukasa",
+    "Aikawa Megumi",
+    "Kunimi Tama",
+  ];
+  return (
+    <>
+      <h1>31A </h1>
+      <ul className="list-group">
+        {items.map((item) => (
+          <li key={item}>{item}</li>
+        ))}
+      </ul>
+    </>
+  );
+}
+```
+Use `array.map( (i) => (<li>{i}</li> )` to map each item in the array to generate array.size number of list item
+
+
+  

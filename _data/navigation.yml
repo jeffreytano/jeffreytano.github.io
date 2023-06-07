@@ -26,8 +26,8 @@ defaultsidebar:
     url: /workexp/
   - title: Learning
     children:
-      - title: "Child Page B1"
-        url: /
+      - title: "React"
+        url: /reactnote/
       - title: "Child Page B2"
         url: /
   - title: "Entertainment"

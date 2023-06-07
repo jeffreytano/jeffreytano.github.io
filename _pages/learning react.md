@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Learning React"
+title: "React notes"
 permalink: /reactnote/
 ---
 

@@ -131,5 +131,13 @@ function ListGroup() {
 Use `array.map( (i) => (<li>{i}</li> )` to map each item in the array to generate array.size number of list item
 Addition: `array.map( (item,index) => (<li>{index}: {item}</li> )` can also return index in mapping
 
-
-  
+## Hook
+useState return an array that contains one value and one function
+In a react component  `ListGroup()` for example
+```
+function ListGroup(){
+  const [selectedIndex, setSelectedIndex] = useState(-1); //-1 being default refers to no selected item
+  return(....)
+  }
+````
+another example `const [name, setName] = useState('');`

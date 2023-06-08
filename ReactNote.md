@@ -21,6 +21,9 @@ Links to different topics:\
 [Constructor and state](#constructor-of-objects-and-state)\
 [Conditional rendering](#conditional-rendering) -->
 
+## Running a localhost web server
+go to the directory of the project and `npm run dev`
+
 ## An example for a react component
 ```
 class Square extends React.Component {

@@ -23,5 +23,7 @@ Responsibility:  		Assist in developing IOS version of IoT application by Flutte
 ## Forex Forest Limited - Junior Software Developer
 Duration: 20 Mar 2023 - current
 
+Responsibility:     Quality control on all products related.
+
 
 [back to home](https://jeffreytano.github.io/)

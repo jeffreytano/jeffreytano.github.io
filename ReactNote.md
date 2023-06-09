@@ -141,3 +141,23 @@ function ListGroup(){
   }
 ````
 another example `const [name, setName] = useState('');`
+
+## interface (in typescript)
+You can define data structure with interface keywork. Exmaple:
+```
+interface Props(){
+  items: string[];
+  title: string;
+  onSelectItem: (item:string) => void; // a function takes string and return void
+}
+```
+To call interface in a tag
+```
+let items = ["Kayamori","IZumi","Asakura"]
+let title = "31A"
+const handleSelectItem = (item: string) => {
+  console.log(item);
+}
+
+<ListGroup items={items} title={title} onSelectItem={handleSelectItem}/>
+```

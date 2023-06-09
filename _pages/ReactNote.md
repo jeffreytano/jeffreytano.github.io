@@ -164,5 +164,6 @@ const handleSelectItem = (item: string) => {
 <ListGroup 
   items={items} 
   title={title} 
-  onSelectItem={handleSelectItem}/>
+  onSelectItem={handleSelectItem}
+  />
 ```

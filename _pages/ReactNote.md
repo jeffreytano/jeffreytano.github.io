@@ -7,7 +7,7 @@ permalink: /reactnote/
 ### React notes
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="_blank"} or [Reactdev](https://react.dev/learn){:target="_blank"}
 
-[React Useful](/reactuseful/){: .btn}
+[React Useful](/reactuseful/){: .btn .btn--primary}
 
 Links to different topics:\
 [React component](#an-example-for-a-react-component){: .btn .btn--info}

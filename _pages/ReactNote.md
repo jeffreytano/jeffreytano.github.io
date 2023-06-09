@@ -15,6 +15,8 @@ Links to different topics:\
 [Constructor and state](#constructor-of-objects-and-state){: .btn .btn--info}
 [Conditional rendering](#conditional-rendering){: .btn .btn--info}
 [Mapping](#mapping){: .btn .btn--info}
+[Hook](#hook){: .btn .btn--info}
+[interface-(in-typescript)](#interface-in-typescript){: .btn .btn--info}
 
 <!-- [React component](#an-example-for-a-react-component)\ -->
 <!-- [Calling component](#to-call-a-component-defined-by-yourself)\
@@ -143,7 +145,7 @@ function ListGroup(){
 ````
 another example `const [name, setName] = useState('');`
 
-## interface (in typescript)
+## interface in typescript
 You can define data structure with interface keywork. Exmaple:
 ```
 interface Props(){

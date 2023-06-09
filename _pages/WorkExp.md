@@ -20,5 +20,8 @@ Duration: 24 Dec 2020 – 31 Jan 2021
 
 Responsibility:  		Assist in developing IOS version of IoT application by Flutter SDK 
 
+## Forex Forest Limited - Junior Software Developer
+Duration: 20 Mar 2023 - current
+
 
 [back to home](https://jeffreytano.github.io/)

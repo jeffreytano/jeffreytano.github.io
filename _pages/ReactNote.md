@@ -136,7 +136,8 @@ useState return an array that contains one value and one function
 In a react component  `ListGroup()` for example
 ```
 function ListGroup(){
-  const [selectedIndex, setSelectedIndex] = useState(-1); //-1 being default refers to no selected item
+  const [selectedIndex, setSelectedIndex] = useState(-1); 
+  //-1 being default refers to no selected item
   return(....)
   }
 ````
@@ -148,7 +149,8 @@ You can define data structure with interface keywork. Exmaple:
 interface Props(){
   items: string[];
   title: string;
-  onSelectItem: (item:string) => void; // a function takes string and return void
+  onSelectItem: (item:string) => void; 
+  // a function takes string and return void
 }
 ```
 To call interface in a tag
@@ -159,5 +161,8 @@ const handleSelectItem = (item: string) => {
   console.log(item);
 }
 
-<ListGroup items={items} title={title} onSelectItem={handleSelectItem}/>
+<ListGroup 
+  items={items} 
+  title={title} 
+  onSelectItem={handleSelectItem}/>
 ```

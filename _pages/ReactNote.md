@@ -16,7 +16,7 @@ Links to different topics:\
 [Conditional rendering](#conditional-rendering){: .btn .btn--info}
 [Mapping](#mapping){: .btn .btn--info}
 [Hook](#hook){: .btn .btn--info}
-[interface in typescript](#interface-in-typescript){: .btn .btn--info}
+[interface](#interface){: .btn .btn--info}
 
 <!-- [React component](#an-example-for-a-react-component)\ -->
 <!-- [Calling component](#to-call-a-component-defined-by-yourself)\

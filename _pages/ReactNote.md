@@ -169,3 +169,20 @@ const handleSelectItem = (item: string) => {
   onSelectItem={handleSelectItem}
   />
 ```
+
+## props
+Use dropdown list as an exmaple
+```
+function DropdownItem(props){
+  return(
+    <li className = 'dropdownItem'>
+      <img src={props.img}/>
+      <a> {props.text} </a>
+    </li>
+  );
+ }
+ 
+ // In the dropdown List component
+ ....
+ <DropdownItem img = {itemimg[0]} text = {text[0]}/> 
+```

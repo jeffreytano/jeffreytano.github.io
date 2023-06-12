@@ -40,7 +40,7 @@ Run `npm start` on terminal, will open a terminal window
 In Android Studio, `Configure` &rarr; `AVD Manager` &rarr; `Create virtual device`
 After install and opening the AVD, press `Run on Android device/emulator` in the terminal window
 
-# IOS (To be updated)
+#### IOS (To be updated)
 
 #### Actual Android phone
 

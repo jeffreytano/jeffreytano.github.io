@@ -97,6 +97,18 @@ The object will be darken for a second when touched
 |---
 
 |---
+| Properties | Example
+|-|:-
+| width | 200
+| height | 200
+| backgroundColor |  "blue" 
+| flex |
+| alignItems   |
+| justifyContent   | 
+|---
+
+<!-- 
+|---
 | Default aligned | Left aligned | Center aligned | Right aligned
 |-|:-|:-:|-:
 | First body part | Second cell | Third cell | fourth cell
@@ -106,7 +118,8 @@ The object will be darken for a second when touched
 | Second body
 | 2 line
 |===
-| Footer row
+| Footer row 
+-->
 
 `<View style={{width: width, height: height, backgroundColor: {color}}}></View>`\
 or\

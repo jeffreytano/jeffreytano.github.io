@@ -28,6 +28,8 @@ defaultsidebar:
     children:
       - title: "React"
         url: /reactnote/
+      - title: "React Native"
+        url: /reactnative/
       - title: "Shortcuts for VScode"
         url: /shortcuts/
   - title: "Entertainment"

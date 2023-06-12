@@ -97,21 +97,14 @@ or\
 
 Wrap components in a Touchable component to apply event triggerer
 
-#### [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback)
-
-Just no visual feedback version
-
-#### [TouchableNavtiveFreedback](https://reactnative.dev/docs/touchablenativefeedback)
-
-Androids only
-
-#### [TouchableOpacity](https://reactnative.dev/docs/touchableopacity)
-
-The object will become half transparent for a second when touched
-
-#### [TouchableHightlight](https://reactnative.dev/docs/touchablehighlight)
-
-The object will be darken for a second when touched
+|---
+| Version | Discribe | Docs
+|-|:-|:-
+| TouchableWithoutFeedback | Just no visual feedback version | [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback){: .btn .btn--info}
+| TouchableNavtiveFreedback | Androids only | [TouchableNavtiveFeedback](https://reactnative.dev/docs/touchablenativefeedback){: .btn .btn--info}
+| TouchableOpacity | The object will become half transparent for a second when touched | [TouchableOpacity](https://reactnative.dev/docs/touchableopacity){: .btn .btn--info}
+| TouchableHightlight | The object will be darken for a second when touched | [TouchableHightlight](https://reactnative.dev/docs/touchablehighlight){: .btn .btn--info}
+|---
 
 ### Style
 

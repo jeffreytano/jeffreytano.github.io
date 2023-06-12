@@ -44,7 +44,7 @@ After install and opening the AVD, press `Run on Android device/emulator` in the
 
 #### Actual Android phone
 
-Require
+Requirement: \
 
 - Download **Expo Client** on your phone
 - phone is connected in the same network with your computer
@@ -56,7 +56,9 @@ Metro Bundle in terminal window and scan the QR code
 Too lazy to note it.
 I just put the [link with time](https://youtu.be/0-S5a0eXPoc?t=1756) in case I need it later.
 
-Debug on vscode chapter right after the chapter "Debug on chrome"
+### Debug on vscode
+
+this chapter right after the chapter "Debug on chrome"
 
 ## Fundamental
 

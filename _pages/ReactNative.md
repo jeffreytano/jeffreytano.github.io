@@ -85,14 +85,16 @@ The object will become half transparent for a second when touched
 The object will be darken for a second when touched
 
 ### Style
+|---
 |Properties|  Example | 
-|---|---|
+|-|:-|
 |width  |  200 |
 |height |  200 |
 |backgroundColor |  "blue" |
 |flex   |   |
 |alignItems   |   |
-|justifyContent   |   |
+|justifyContent   |   
+|---
 
 `<View style={{width: width, height: height, backgroundColor: {color}}}></View>`\
 or\

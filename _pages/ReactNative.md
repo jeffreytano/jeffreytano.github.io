@@ -1,8 +1,8 @@
 ---
 layout: single
+title: "React Native"
 permalink: /reactnative/
 ---
-# React Native
 ## Set up environment
 
 - Recommanded extension
@@ -63,8 +63,46 @@ A component that similar to `<View>` but render in safe zone that make sure no c
 Example: `<Text numberOfLines={1}>`\ 
 Used to limit the number of lines in the text component and trunc the extra text instead of wrapping it
 
+## [Image](https://reactnative.dev/docs/image#source)
+### source
+Image source
+`<Image source={require("./image.jpg"}/>`\
+or\
+`<Image source={{ width: {width}, height: {height}, uri: "outside hyperlink"}}/>`
 
+## Touchable
+Wrap components in a Touchable component to apply event triggerer
+### [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback)
+Just no visual feedback version
 
+### [TouchableNavtiveFreedback](https://reactnative.dev/docs/touchablenativefeedback)
+Androids only
+
+### [TouchableOpacity](https://reactnative.dev/docs/touchableopacity)
+The object will become half transparent for a second when touched
+
+### [TouchableHightlight](https://reactnative.dev/docs/touchablehighlight)
+The object will be darken for a second when touched
+
+## Style
+|Properties|  Example | 
+|---|---|
+|width  |  200 |
+|height |  200 |
+|backgroundColor |  "blue" |
+|flex   |   |
+|alignItems   |   |
+|justifyContent   |   |
+
+`<View style={{width: {width}, height: {height}, backgroundColor: {color}}}></View>`\
+or\
+``` <View style = {style.container}> </View>
+
+const styles = StyleSheet.create({
+  container: {
+  },
+});
+```
 
 
 ## Reference

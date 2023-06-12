@@ -91,7 +91,7 @@ Used to limit the number of lines in the text component and trunc the extra text
 Image source \
 `<Image source={require("./image.jpg")}/>`\
 or\
-`<Image source={{ width: width, height: height, uri: "outside hyperlink"}}/>`
+`<Image source={ width: width, height: height, uri: "outside hyperlink"}/>`
 
 ### Touchable
 
@@ -136,7 +136,7 @@ Wrap components in a Touchable component to apply event triggerer
 
 #### Code Example
 
-`<View style={{width: width, height: height, backgroundColor: {color}}}></View>`\
+`<View style={backgroundColor: "orange" }></View>`\
 or
 
 ```

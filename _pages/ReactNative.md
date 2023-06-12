@@ -23,7 +23,6 @@ classes: wide
 `expo init //project name//`
 
 After creating project, open the project in vscode. For example `cd //projectName//` and `code .`
-
 Run `npm start` on terminal, will open a terminal window
 
 ### Option 2 - React Native CLI
@@ -72,7 +71,7 @@ A component that similar to `<View>` but render in safe zone that make sure no c
 
 ### [Text](https://reactnative.dev/docs/text)
 
-#### [numberOfLines](https://reactnative.dev/docs/text#numberoflines)
+#### numberOfLines
 
 Example: `<Text numberOfLines={1}>`\
 Used to limit the number of lines in the text component and trunc the extra text instead of wrapping it
@@ -82,7 +81,7 @@ Used to limit the number of lines in the text component and trunc the extra text
 #### source
 
 Image source
-`<Image source={require("./image.jpg"}/>`\
+`<Image source={require("./image.jpg")}/>`\
 or\
 `<Image source={{ width: width, height: height, uri: "outside hyperlink"}}/>`
 

@@ -15,7 +15,7 @@ classes: wide
 
 ### Option 1 - Expo CLI
 
-[Expo docs](https://docs.expo.dev/){: .btn .btn--info} for reference
+[Expo docs](https://docs.expo.dev/){: .btn .btn--info}
 
 - Require node ver.12 or higher \
   run `sudo npm i -g expo-cli` &rarr; `expo init //project name//`
@@ -69,7 +69,7 @@ this chapter right after the chapter "Debug on chrome"
 Only affect on IOS. \
 A component that similar to `<View>` but render in safe zone that make sure no content is overlapping the top bar
 
-### [Text](https://reactnative.dev/docs/text)
+### Text [docs](https://reactnative.dev/docs/text){: .btn .btn--info}
 
 |---
 | Properties | Example
@@ -80,7 +80,7 @@ A component that similar to `<View>` but render in safe zone that make sure no c
 Example: `<Text numberOfLines={1}>`\
 Used to limit the number of lines in the text component and trunc the extra text instead of wrapping it
 
-### [Image](https://reactnative.dev/docs/image#source)
+### Image [docs](https://reactnative.dev/docs/image#source){: .btn .btn--info}
 
 |---
 | Properties | Example

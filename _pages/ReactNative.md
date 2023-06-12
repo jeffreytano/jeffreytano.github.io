@@ -86,17 +86,6 @@ The object will be darken for a second when touched
 
 ### Style
 |---
-|Properties|  Example | 
-|-|:-|
-|width  |  200 |
-|height |  200 |
-|backgroundColor |  "blue" |
-|flex   |   |
-|alignItems   |   |
-|justifyContent   |   
-|---
-
-|---
 | Properties | Example
 |-|:-
 | width | 200
@@ -120,7 +109,7 @@ The object will be darken for a second when touched
 |===
 | Footer row 
 -->
-
+#### Code Example
 `<View style={{width: width, height: height, backgroundColor: {color}}}></View>`\
 or\
 ``` <View style = {style.container}> </View>

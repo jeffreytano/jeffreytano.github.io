@@ -3,7 +3,7 @@ layout: single
 title: "React Native"
 permalink: /reactnative/
 ---
-### Set up environment
+## Set up environment
 
 - Recommanded extension
   -  Extension: React Native Tools (by microsoft)

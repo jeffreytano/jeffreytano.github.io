@@ -17,12 +17,10 @@ classes: wide
 
 [Expo docs](https://docs.expo.dev/){: .btn .btn--info} for reference
 
-- Require node ver.12 or higher \ run
-  `sudo npm i -g expo-cli`
+- Require node ver.12 or higher \
+  run `sudo npm i -g expo-cli` &rarr; `expo init //project name//`
 
-`expo init //project name//`
-
-After creating project, open the project in vscode. For example `cd //projectName//` and `code .`
+After creating project, open the project in vscode. For example `cd //projectName//` and `code .` \
 Run `npm start` on terminal, will open a terminal window
 
 ### Option 2 - React Native CLI
@@ -71,16 +69,24 @@ A component that similar to `<View>` but render in safe zone that make sure no c
 
 ### [Text](https://reactnative.dev/docs/text)
 
-#### numberOfLines
+|---
+| Properties | Example
+|-|:-
+| numberOfLines | 1
+|---
 
 Example: `<Text numberOfLines={1}>`\
 Used to limit the number of lines in the text component and trunc the extra text instead of wrapping it
 
 ### [Image](https://reactnative.dev/docs/image#source)
 
-#### source
+|---
+| Properties | Example
+|-|:-
+| source | source={require("./image.jpg")}/>
+|---
 
-Image source
+Image source \
 `<Image source={require("./image.jpg")}/>`\
 or\
 `<Image source={{ width: width, height: height, uri: "outside hyperlink"}}/>`

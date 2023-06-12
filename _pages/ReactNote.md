@@ -2,8 +2,10 @@
 layout: single
 title: "React notes"
 permalink: /reactnote/
+classes: wide
 ---
-go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="_blank"} or [Reactdev](https://react.dev/learn){:target="_blank"}
+
+go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="\_blank"} or [Reactdev](https://react.dev/learn){:target="\_blank"}
 
 [React Useful](/reactuseful/){: .btn .btn--primary}
 
@@ -22,9 +24,11 @@ Links to different topics:\
 [Conditional rendering](#conditional-rendering) -->
 
 ## Running a localhost web server
+
 go to the directory of the project and `npm run dev`
 
 ## An example for a react component
+
 ```
 class Square extends React.Component {
   render() {
@@ -39,15 +43,18 @@ class Square extends React.Component {
 Explaination: Class 'Square' is extending the class React.component and return html codes `<button class = "sqaure"> </button>`
 
 ## To call a component defined by yourself
+
 ```
 class Board extends React.Component {
   renderSquare(i) {
     return <Square/>;
   }
 ```
+
 Just call <Square/> if you defined a class **Square**
 
 ## Constructor of objects and state
+
 ```
 class Square extends React.Component {
   constructor(props){
@@ -56,9 +63,11 @@ class Square extends React.Component {
   }
 }
 ```
+
 In the constructor of a object, you may set state by editing `this.state` by it dictionary key like `value : null`
 
 To retrieve the state value, just call `this.state.value`, note that you can define state value by self-defined key like the following
+
 ```
 class Board extends React.Component {
 
@@ -70,11 +79,13 @@ constructor(props){
   };
 }
 ```
+
 The value can be array and boolean too.
 
 React component names must start with **capitial letter**, while HTML tag must be **lowercase**.
 
 ## Conditional rendering
+
 ```
 let content;
 if (isLoggedIn) {
@@ -88,7 +99,9 @@ return (
   </div>
 );
 ```
-or 
+
+or
+
 ```
 <div>
   {isLoggedIn ? (
@@ -98,7 +111,9 @@ or
   )}
 </div>
 ```
+
 if your no need the else statement, this also work
+
 ```
 <div>
   {isLoggedIn && <AdminPanel />}
@@ -106,6 +121,7 @@ if your no need the else statement, this also work
 ```
 
 ## Mapping
+
 ```
 function ListGroup() {
   const items = [
@@ -128,32 +144,40 @@ function ListGroup() {
   );
 }
 ```
+
 Use `array.map( (i) => (<li>{i}</li> )` to map each item in the array to generate array.size number of list item
 Addition: `array.map( (item,index) => (<li>{index}: {item}</li> )` can also return index in mapping
 
 ## Hook
+
 useState return an array that contains one value and one function
-In a react component  `ListGroup()` for example
+In a react component `ListGroup()` for example
+
 ```
 function ListGroup(){
-  const [selectedIndex, setSelectedIndex] = useState(-1); 
+  const [selectedIndex, setSelectedIndex] = useState(-1);
   //-1 being default refers to no selected item
   return(....)
   }
-````
+```
+
 another example `const [name, setName] = useState('');`
 
 ## interface in typescript
+
 You can define data structure with interface keywork. Exmaple:
+
 ```
 interface Props(){
   items: string[];
   title: string;
-  onSelectItem: (item:string) => void; 
+  onSelectItem: (item:string) => void;
   // a function takes string and return void
 }
 ```
+
 To call interface in a tag
+
 ```
 let items = ["Kayamori","IZumi","Asakura"]
 let title = "31A"
@@ -161,15 +185,17 @@ const handleSelectItem = (item: string) => {
   console.log(item);
 }
 
-<ListGroup 
-  items={items} 
-  title={title} 
+<ListGroup
+  items={items}
+  title={title}
   onSelectItem={handleSelectItem}
   />
 ```
 
 ## props
+
 Use dropdown list as an exmaple
+
 ```
 function DropdownItem(props){
   return(
@@ -179,8 +205,8 @@ function DropdownItem(props){
     </li>
   );
  }
- 
+
  // In the dropdown List component
  ....
- <DropdownItem img = {itemimg[0]} text = {text[0]}/> 
+ <DropdownItem img = {itemimg[0]} text = {text[0]}/>
 ```

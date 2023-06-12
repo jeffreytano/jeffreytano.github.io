@@ -4,7 +4,7 @@ title: "React notes"
 permalink: /reactnote/
 ---
 
-### React notes
+# React notes
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="_blank"} or [Reactdev](https://react.dev/learn){:target="_blank"}
 
 [React Useful](/reactuseful/){: .btn .btn--primary}

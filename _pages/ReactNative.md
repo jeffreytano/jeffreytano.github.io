@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "React Native"
 permalink: /reactnative/
 ---
+# React Native
 ## Set up environment
 
 - Recommanded extension

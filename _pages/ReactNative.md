@@ -94,7 +94,7 @@ Image source
 <Image source={require("./image.jpg")}/>
 ```
 
-or\
+or
 
 ```
 <Image source={ width: width, height: height, uri: "outside hyperlink"}/>
@@ -172,7 +172,6 @@ container: {
 ##### Special mention
 
 ```
-
 <View style = {[style.container, {backgroundColor: "orange"}]}> </View>
 
 const styles = StyleSheet.create({

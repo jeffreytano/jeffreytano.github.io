@@ -161,7 +161,6 @@ Wrap components in a Touchable component to apply event triggerer
 or
 
 ```
-
 <View style = {style.container}> </View>
 
 const styles = StyleSheet.create({

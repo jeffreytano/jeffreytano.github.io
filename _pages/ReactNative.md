@@ -157,7 +157,7 @@ Wrap components in a Touchable component to apply event triggerer
 
 or
 
-````
+```
 
 <View style = {style.container}> </View>
 
@@ -198,5 +198,7 @@ In the terminal, enter `npm i @react-native-community/hooks`
 ## Reference
 
 [https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+
 ```
-````
+
+```

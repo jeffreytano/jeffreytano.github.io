@@ -7,7 +7,7 @@ classes: wide
 
 ## Set up environment
 
-- Recommanded extension
+- Recommended extension
   - Extension: React Native Tools (by microsoft)
   - Extension: React-Native/React/Redux snippets for es6/es7
   - Extension: Prettier
@@ -15,7 +15,7 @@ classes: wide
 
 #### Option 1 - Expo CLI
 
-[Expo docs](https://docs.expo.dev/){: .btn .btn--info}
+[Expo docs](https://docs.expo.dev/){: .btn .btn--info }{:target="\_blank"}
 
 - Require node ver.12 or higher \
   run `sudo npm i -g expo-cli` &rarr; `expo init //project name//`
@@ -69,7 +69,7 @@ this chapter right after the chapter "Debug on chrome"
 Only affect on IOS. \
 A component that similar to `<View>` but render in safe zone that make sure no content is overlapping the top bar
 
-### Text [docs](https://reactnative.dev/docs/text){: .btn .btn--info}
+### Text [docs](https://reactnative.dev/docs/text){: .btn .btn--info}{:target="\_blank"}
 
 |---
 | Properties | Example
@@ -80,7 +80,7 @@ A component that similar to `<View>` but render in safe zone that make sure no c
 Example: `<Text numberOfLines={1}>`\
 Used to limit the number of lines in the text component and trunc the extra text instead of wrapping it
 
-### Image [docs](https://reactnative.dev/docs/image#source){: .btn .btn--info}
+### Image [docs](https://reactnative.dev/docs/image#source){: .btn .btn--info}{:target="\_blank"}
 
 |---
 | Properties | Example
@@ -122,7 +122,7 @@ Wrap components in a Touchable component to apply event triggerer
 | top / bottom | +- integer | adjust pixels away from |
 | left / right | +- integer | adjust pixels away from |
 | backgroundColor | color | |
-| position | ["relative", "absolute"]
+| position | "relative"/ "absolute"
 | flex | 1 | | [flex](#flex){: .btn .btn--info}
 | flexDirection | "row-reserve" |
 | flexGrow | realNumber | = flex: 1
@@ -132,7 +132,10 @@ Wrap components in a Touchable component to apply event triggerer
 | alignContent | "center" | All children alignItems
 | alignSelf | "center" | Self justifyContent
 | flexWrap | "wrap" |
+| aspectRatio | 1/1 | constrain it to be squared
 | paddingTop | integer
+| borderWidth| 1 |
+| borderColor | "lightblue"|
 |---
 
 <!--

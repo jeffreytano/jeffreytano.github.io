@@ -13,7 +13,7 @@ classes: wide
   - Extension: Prettier
   - Extension: Material Icon Theme
 
-### Option 1 - Expo CLI
+#### Option 1 - Expo CLI
 
 [Expo docs](https://docs.expo.dev/){: .btn .btn--info}
 
@@ -23,9 +23,9 @@ classes: wide
 After creating project, open the project in vscode. For example `cd //projectName//` and `code .` \
 Run `npm start` on terminal, will open a terminal window
 
-### Option 2 - React Native CLI
+#### Option 2 - React Native CLI
 
-### Simulator
+## Simulator
 
 #### Android Studio
 
@@ -88,10 +88,17 @@ Used to limit the number of lines in the text component and trunc the extra text
 | source | source={require("./image.jpg")}/>
 |---
 
-Image source \
-`<Image source={require("./image.jpg")}/>`\
+Image source
+
+```
+<Image source={require("./image.jpg")}/>
+```
+
 or\
-`<Image source={ width: width, height: height, uri: "outside hyperlink"}/>`
+
+```
+<Image source={ width: width, height: height, uri: "outside hyperlink"}/>
+```
 
 ### Touchable
 
@@ -109,15 +116,23 @@ Wrap components in a Touchable component to apply event triggerer
 ### Style
 
 |---
-| Properties | Example
-|-|:-
-| width | 200
-| height | 200
-| backgroundColor | "blue"
-| flex |
-| alignItems |
-| justifyContent |
-| paddingTop | Platform.OS === "android" ? StatusBar.currentHeight : 0
+| Properties | Example | Explain | Internal link
+|-|:-|:-|:-
+| width / height | integer | No. of points |
+| top / bottom | +- integer | adjust pixels away from |
+| left / right | +- integer | adjust pixels away from |
+| backgroundColor | color | |
+| position | ["relative", "absolute"]
+| flex | 1 | | [flex](#flex){: .btn .btn--info}
+| flexDirection | "row-reserve" |
+| flexGrow | realNumber | = flex: 1
+| flexShrink | 1 | = flex: -1
+| justifyContent | "center" | Based on main axis
+| alignItems | "center" | Based on secondary axis
+| alignContent | "center" | All children alignItems
+| alignSelf | "center" | Self justifyContent
+| flexWrap | "wrap" |
+| paddingTop | integer
 |---
 
 <!--
@@ -136,35 +151,46 @@ Wrap components in a Touchable component to apply event triggerer
 
 #### Code Example
 
-`<View style={backgroundColor: "orange" }></View>`\
+```
+<View style={backgroundColor: "orange" }></View>
+```
+
 or
 
-```
+````
+
 <View style = {style.container}> </View>
 
 const styles = StyleSheet.create({
-  container: {
-    //your style properties
-  },
+container: {
+//your style properties
+},
 });
+
 ```
 
 ##### Special mention
 
 ```
-<View style = {[style.container,  {backgroundColor: "orange"}]}> </View>
+
+<View style = {[style.container, {backgroundColor: "orange"}]}> </View>
 
 const styles = StyleSheet.create({
-  container: {
-    backgroundColor: "#fff",
-    //your style properties
-  },
+container: {
+backgroundColor: "#fff",
+//your style properties
+},
 });
+
 ```
 
 Here the background color will be orange instead of white, because the style properties on the right will replace same properties on it lefts (like read left properties first)
 
-#### Hooks
+#### flex
+
+flex take weighting portion of available space
+
+### Hooks
 
 A react native library from react native community \
 In the terminal, enter `npm i @react-native-community/hooks`
@@ -172,3 +198,5 @@ In the terminal, enter `npm i @react-native-community/hooks`
 ## Reference
 
 [https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+```
+````

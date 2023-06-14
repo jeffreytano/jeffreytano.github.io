@@ -54,7 +54,7 @@ Metro Bundle in terminal window and scan the QR code
 ### Debug on chrome
 
 Too lazy to note it.
-I just put the [link with time](https://youtu.be/0-S5a0eXPoc?t=1756) in case I need it later.
+I just put the [link with time](https://youtu.be/0-S5a0eXPoc?t=1756){:target="\_blank"} in case I need it later.
 
 ### Debug on vscode
 
@@ -198,4 +198,4 @@ In the terminal, enter `npm i @react-native-community/hooks`
 
 ## Reference
 
-[https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc)
+[https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"}

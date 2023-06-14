@@ -4,14 +4,14 @@ main:
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Anime watchlist"
   #   url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
-   - title: "Qualification"
-     url: /qualification/
-   - title: "Work Experience"
-     url: /workexp/
-   - title: "3D Object Work done"
-     url: /3Dwork/
-   - title: "Unity Work done"
-     url: /unitywork/
+  - title: "Qualification"
+    url: /qualification/
+  - title: "Work Experience"
+    url: /workexp/
+  - title: "3D Object Work done"
+    url: /3Dwork/
+  - title: "Unity Work done"
+    url: /unitywork/
 
 defaultsidebar:
   - title: "Portfolio"
@@ -26,6 +26,8 @@ defaultsidebar:
     url: /workexp/
   - title: Learning
     children:
+      - title: "日本語"
+        url: /japanese/
       - title: "React"
         url: /reactnote/
       - title: "React Native"

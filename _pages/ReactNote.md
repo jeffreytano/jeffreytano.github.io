@@ -7,8 +7,6 @@ classes: wide
 
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="\_blank"} or [Reactdev](https://react.dev/learn){:target="\_blank"}
 
-[React Useful](/reactuseful/){: .btn .btn--primary}
-
 Links to different topics:\
 [React component](#an-example-for-a-react-component){: .btn .btn--info}
 [Calling component](#to-call-a-component-defined-by-yourself){: .btn .btn--info}
@@ -163,7 +161,7 @@ function ListGroup(){
 
 another example `const [name, setName] = useState('');`
 
-## interface in typescript
+## interface
 
 You can define data structure with interface keywork. Exmaple:
 
@@ -195,6 +193,7 @@ const handleSelectItem = (item: string) => {
 ## props
 
 Use dropdown list as an exmaple
+Remember you take interface props in the function input arg but assign the value when you call the tag
 
 ```
 function DropdownItem(props){
@@ -210,3 +209,15 @@ function DropdownItem(props){
  ....
  <DropdownItem img = {itemimg[0]} text = {text[0]}/>
 ```
+
+## React useful
+
+### tldr
+
+```
+import {Fragment} from "react";
+```
+
+### Fragement
+
+use `<Fragment> <Fragment/>` or `<> </>` to wrap more than one element in react components

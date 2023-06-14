@@ -16,11 +16,6 @@ Links to different topics:\
 [Hook](#hook){: .btn .btn--info}
 [interface](#interface){: .btn .btn--info}
 
-<!-- [React component](#an-example-for-a-react-component)\ -->
-<!-- [Calling component](#to-call-a-component-defined-by-yourself)\
-[Constructor and state](#constructor-of-objects-and-state)\
-[Conditional rendering](#conditional-rendering) -->
-
 ## Running a localhost web server
 
 go to the directory of the project and `npm run dev`
@@ -47,6 +42,7 @@ class Board extends React.Component {
   renderSquare(i) {
     return <Square/>;
   }
+}
 ```
 
 Just call <Square/> if you defined a class **Square**
@@ -69,12 +65,13 @@ To retrieve the state value, just call `this.state.value`, note that you can def
 ```
 class Board extends React.Component {
 
-constructor(props){
-  super(props);
-  this.state = {
-    squares: Array(9).fill(null),
-    P1: true,
-  };
+  constructor(props){
+    super(props);
+    this.state = {
+      squares: Array(9).fill(null),
+      P1: true,
+    };
+  }
 }
 ```
 

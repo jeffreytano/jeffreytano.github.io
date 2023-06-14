@@ -153,7 +153,7 @@ function ListGroup(){
   const [selectedIndex, setSelectedIndex] = useState(-1);
   //-1 being default refers to no selected item
   return(....)
-  }
+}
 ```
 
 another example `const [name, setName] = useState('');`

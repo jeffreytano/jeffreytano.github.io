@@ -62,7 +62,7 @@ this chapter right after the chapter "Debug on chrome"
 
 ## Fundamental
 
-[React Native API docs](https://reactnative.dev/docs/accessibilityinfo){: .btn .btn--info} for reference
+[React Native API docs](https://reactnative.dev/docs/accessibilityinfo){: .btn .btn--info}{:target="\_blank"} for reference
 
 ### SafeAreaView
 

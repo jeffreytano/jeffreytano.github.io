@@ -7,7 +7,7 @@ classes: wide
 
 ## Remote pull and push
 
-[Reference](https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/#scenario-2-remote-first)
+[Reference](https://www.freecodecamp.org/news/create-and-sync-git-and-github-repositories/#scenario-2-remote-first){: .btn .btn--info}{:target="\_blank"}
 
 ### git pull
 

@@ -196,6 +196,54 @@ flex take weighting portion of available space
 A react native library from react native community \
 In the terminal, enter `npm i @react-native-community/hooks`
 
+### React Navigation
+
+Need to install react navigation package
+`npm install @react-navigation/native` \
+`@react-navigation/bottom-tabs` which create bottom tabs bars \
+`@react-navigation/native-stack` which allow you to create a page on top of another page \
+`@react-navigation/drawer` which create a pop out sidebar \
+`@react-navigation/material-top-tabs react-native-tab-view` which create top tabs and slideshow different tabs
+
+Code Example
+Create a tsx file, navigation.tsx for example \
+Use a `NavigationContainer` to wrap the contain you wish to have navigation function. Below is a bottom tab example
+
+```
+const Tab = createBottomTabNavigator();
+
+function TabGroup() {
+  return (
+    <Tab.Navigator>
+      <Tab.Screen name="TeamBuild" component={TeamBuilding} />
+      <Tab.Screen name="TeamBuild2" component={TeamBuilding} />
+    </Tab.Navigator>
+  );
+}
+
+function Navigation() {
+  return (
+    <NavigationContainer>
+      <TabGroup />
+    </NavigationContainer>
+  );
+}
+
+export default Navigation;
+```
+
+In the App.tsx, just set up a Navigation Tab
+
+```
+export default function App() {
+  return (
+    <Navigation/>
+  );
+}
+```
+
+### FlatList
+
 ## Reference
 
 [https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"}

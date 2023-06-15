@@ -38,5 +38,3 @@ defaultsidebar:
     children:
       - title: "AnimeList"
         url: /
-      - title: "Child Page C2"
-        url: /

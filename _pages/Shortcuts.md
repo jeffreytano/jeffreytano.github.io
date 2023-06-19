@@ -37,3 +37,7 @@ To remove the multi-cursor, press `Esc`.
 ## Shift codes lines
 
 Highlight the lines you wish to move, hold `Alt` and press &uarr; or &darr; to move
+
+## ignore error
+
+Write `// @ts-ignore` right above the line you wish to ignore error

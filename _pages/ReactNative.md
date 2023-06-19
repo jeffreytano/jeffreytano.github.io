@@ -244,6 +244,64 @@ export default function App() {
 
 ### FlatList
 
+```
+  <View>
+    <FlatList
+      data={resultData}
+      renderItem={oneCh}
+      keyExtractor={(data) => data.id}
+    ></FlatList>
+  </View>
+```
+
+`data` receive array of data \
+Example
+
+```
+const DATA: ChData[] = [
+  {
+    id: "1",
+    chName: "Kayamori Ruka",
+  },
+  {
+    id: "2",
+    chName: "Izumi Yuki",
+  },
+];
+```
+
+`renderItem` receive template for each item \
+Example
+
+```
+  const oneIetm = ({ item }: { item: ChData }) => <Item item={item} />;
+
+  ...
+
+  const Item = ({ item }: ItemProps) => (
+    <View
+      style={{
+        backgroundColor: "#CCCCCC",
+        padding: 10,
+        marginVertical: 2,
+        marginHorizontal: 4,
+        flexDirection: "row",
+      }}
+    >
+      <Text>
+        {item.chName}
+      </Text>
+    </View>
+  );
+```
+
+`keyExtractor` just use one properties in FlatList.data given before \
+Exmaple
+
+```
+keyExtractor={(data) => data.id}
+```
+
 ## Reference
 
 [https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"}

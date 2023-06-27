@@ -23,6 +23,10 @@ classes: wide
 7. Outwear
    - keep yourself warm
 
+### HKExpress
+
+Personally only need 20kg package since last time return only 15.9kg
+
 ## After arrived
 
 #### 成田空港編

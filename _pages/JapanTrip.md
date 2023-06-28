@@ -27,6 +27,10 @@ classes: wide
 
 Personally only need 20kg package since last time return only 15.9kg
 
+Try not to early check-in so that we may easily get a row of adj. seats
+
+Low chance to get front seat (experienced in 26/6)
+
 ## After arrived
 
 #### 成田空港編
@@ -44,6 +48,20 @@ No guaranteed seat but IC card available
 
 Guideline: \
 成田 → 京成高砂 （京成-成田 Skyacess/橙色線）　\
-京成高砂 → 京成上野 （京成/藍色線） \
+京成高砂 → 京成上野 （京成/藍色線）
 
 ## JR
+
+## Eat recommandation
+
+新宿 - 立ち寿司横丁 新宿西口店
+
+- 1000yen 1.5 人前おまかせ
+
+叙々苑 ‐ Heard that lunch time is cheap
+
+二郎系ラメン
+
+篝ラメン
+
+カピネコカフェ(Capy Neko Cafe)

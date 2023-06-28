@@ -5,6 +5,8 @@ permalink: /jptrip/
 classes: wide
 ---
 
+### Go Japan in non-populated season may result in cheaper ticket, hotel fee and higher accessability, just cost you a few more annual leave quota.
+
 ## Preparation Checklist
 
 1. Water Bottle
@@ -16,7 +18,7 @@ classes: wide
 4. Entertainer
    - wired earphone
    - books
-   - downloaded videos in laptop
+   - downloaded anime in laptop
    - hand grip
 5. Passport and identifier (handcarry)
 6. 指甲鉗
@@ -25,11 +27,21 @@ classes: wide
 
 ### HKExpress
 
-Personally only need 20kg package since last time return only 15.9kg
+Personally only need 20kg package since last time return only 15.9kg (15.7 for W)
 
-Try not to early check-in so that we may easily get a row of adj. seats
+Try not to early check-in so that we may get a row of adj. seats
 
 Low chance to get front seat (experienced in 26/6)
+
+**Arrive time estimate** \
+Go flight - offically 0915 → 1445, delayed 1005(HKT) → 1610(JPT), reach hotel 1800(JPT)
+
+Back flight - offically 1545 → 1940, delayed 1600(JPT) → 1917(HKT), get luggages 2016(HKT) \
+\*note that the back flight land in 3th runway and spended 20 mins after landing
+
+Personal comment: 0915 not really a BiS time, turn out free at 1800 in Japan, sleep more before the day and start flight at around 0400 maybe the best if viable. \
+Which means wake up at 0000 and get out at 0100 and arrive airport at 0200. \
+1545 take off JP maybe good enough if you need to work next day.
 
 ## After arrived
 
@@ -56,7 +68,7 @@ Guideline: \
 
 新宿 - 立ち寿司横丁 新宿西口店
 
-- 1000yen 1.5 人前おまかせ
+- 1000 円 1.5 人前おまかせ
 
 叙々苑 ‐ Heard that lunch time is cheap
 

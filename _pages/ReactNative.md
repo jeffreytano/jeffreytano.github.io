@@ -302,6 +302,10 @@ Exmaple
 keyExtractor={(data) => data.id}
 ```
 
+### ScrollView
+
+Make a long list of element scrollable. If item similar items are rendered, it is recommanded to use flatlist
+
 ## Reference
 
 [https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"}

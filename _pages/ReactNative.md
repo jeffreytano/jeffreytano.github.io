@@ -18,7 +18,8 @@ classes: wide
 [Expo docs](https://docs.expo.dev/){: .btn .btn--info }{:target="\_blank"}
 
 - Require node ver.12 or higher \
-  run `sudo npm i -g expo-cli` &rarr; `expo init //project name//`
+  `sudo npm i -g expo-cli` // which is used to setup expo, no need to run every time \
+  `expo init //project name//`
 
 After creating project, open the project in vscode. For example `cd //projectName//` and `code .` \
 Run `npm start` on terminal, will open a terminal window
@@ -59,6 +60,14 @@ I just put the [link with time](https://youtu.be/0-S5a0eXPoc?t=1756){:target="\_
 ### Debug on vscode
 
 this chapter right after the chapter "Debug on chrome"
+
+## React / React Native shortcuts
+
+|---
+| shortcuts | Result
+|-|:-
+| rsf | basic functional component with multicursor enable for editing name
+|---
 
 ## Fundamental
 
@@ -123,15 +132,15 @@ Wrap components in a Touchable component to apply event triggerer
 | left / right | +- integer | adjust pixels away from |
 | backgroundColor | color | |
 | position | "relative"/ "absolute"
-| flex | 1 | | [flex](#flex){: .btn .btn--info}
-| flexDirection | "row-reserve" |
+| flex | 1 | weighting of available space (can be 0.5)| [flex](#flex){: .btn .btn--info}
+| flexDirection | "row-reserve" | Adjust main axis (default align items in vertical)
 | flexGrow | realNumber | = flex: 1
 | flexShrink | 1 | = flex: -1
 | justifyContent | "center" | Based on main axis
 | alignItems | "center" | Based on secondary axis
-| alignContent | "center" | All children alignItems
+| alignContent | "center" | similar to alignItems but applies to all line
 | alignSelf | "center" | Self justifyContent
-| flexWrap | "wrap" |
+| flexWrap | "nowrap" |
 | aspectRatio | 1/1 | constrain it to be squared
 | paddingTop | integer
 | borderWidth| 1 |
@@ -196,51 +205,7 @@ flex take weighting portion of available space
 A react native library from react native community \
 In the terminal, enter `npm i @react-native-community/hooks`
 
-### React Navigation
-
-Need to install react navigation package
-`npm install @react-navigation/native` \
-`@react-navigation/bottom-tabs` which create bottom tabs bars \
-`@react-navigation/native-stack` which allow you to create a page on top of another page \
-`@react-navigation/drawer` which create a pop out sidebar \
-`@react-navigation/material-top-tabs react-native-tab-view` which create top tabs and slideshow different tabs
-
-Code Example
-Create a tsx file, navigation.tsx for example \
-Use a `NavigationContainer` to wrap the contain you wish to have navigation function. Below is a bottom tab example
-
-```
-const Tab = createBottomTabNavigator();
-
-function TabGroup() {
-  return (
-    <Tab.Navigator>
-      <Tab.Screen name="TeamBuild" component={TeamBuilding} />
-      <Tab.Screen name="TeamBuild2" component={TeamBuilding} />
-    </Tab.Navigator>
-  );
-}
-
-function Navigation() {
-  return (
-    <NavigationContainer>
-      <TabGroup />
-    </NavigationContainer>
-  );
-}
-
-export default Navigation;
-```
-
-In the App.tsx, just set up a Navigation Tab
-
-```
-export default function App() {
-  return (
-    <Navigation/>
-  );
-}
-```
+### Navigation [page](/reactnative/Navigation/){: .btn .btn--info }
 
 ### FlatList
 
@@ -308,4 +273,5 @@ Make a long list of element scrollable. If item similar items are rendered, it i
 
 ## Reference
 
-[https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"}
+[https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"} \
+[Login tutorial](https://www.youtube.com/watch?v=ALnJLbjI7EY&list=RDCMUCYSa_YLoJokZAwHhlwJntIA&index=2){:target="\_blank"} This also inc navigation example \

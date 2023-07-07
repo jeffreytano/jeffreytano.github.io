@@ -41,3 +41,7 @@ Highlight the lines you wish to move, hold `Alt` and press &uarr; or &darr; to m
 ## ignore error
 
 Write `// @ts-ignore` right above the line you wish to ignore error
+
+## See availble properties / option
+
+press `Ctrl + Space` to view options

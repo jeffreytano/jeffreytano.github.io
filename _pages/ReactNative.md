@@ -19,7 +19,7 @@ classes: wide
 
 - Require node ver.12 or higher \
   `sudo npm i -g expo-cli` // which is used to setup expo, no need to run every time \
-  `expo init //project name//`
+  `expo init //project name//` or
 
 After creating project, open the project in vscode. For example `cd //projectName//` and `code .` \
 Run `npm start` on terminal, will open a terminal window
@@ -116,10 +116,10 @@ Wrap components in a Touchable component to apply event triggerer
 |---
 | Version | Discribe | Docs
 |-|:-|:-
-| TouchableWithoutFeedback | Just no visual feedback version | [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback){: .btn .btn--info}
-| TouchableNavtiveFeedback | Androids only | [TouchableNavtiveFeedback](https://reactnative.dev/docs/touchablenativefeedback){: .btn .btn--info}
-| TouchableOpacity | The object will become half transparent for a second when touched | [TouchableOpacity](https://reactnative.dev/docs/touchableopacity){: .btn .btn--info}
-| TouchableHighlight | The object will be darken for a second when touched | [TouchableHighlight](https://reactnative.dev/docs/touchablehighlight){: .btn .btn--info}
+| TouchableWithoutFeedback | Just no visual feedback version | [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback){: .btn .btn--info}{:target="\_blank"}
+| TouchableNavtiveFeedback | Androids only | [TouchableNavtiveFeedback](https://reactnative.dev/docs/touchablenativefeedback){: .btn .btn--info}{:target="\_blank"}
+| TouchableOpacity | The object will become half transparent for a second when touched | [TouchableOpacity](https://reactnative.dev/docs/touchableopacity){: .btn .btn--info}{:target="\_blank"}
+| TouchableHighlight | The object will be darken for a second when touched | [TouchableHighlight](https://reactnative.dev/docs/touchablehighlight){: .btn .btn--info}{:target="\_blank"}
 |---
 
 ### Style
@@ -273,5 +273,6 @@ Make a long list of element scrollable. If item similar items are rendered, it i
 
 ## Reference
 
-[https://www.youtube.com/watch?v=0-S5a0eXPoc](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"} \
+[Basic react tutorial](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"} \
 [Login tutorial](https://www.youtube.com/watch?v=ALnJLbjI7EY&list=RDCMUCYSa_YLoJokZAwHhlwJntIA&index=2){:target="\_blank"} This also inc navigation example \
+[Expo Router](https://www.youtube.com/watch?v=yyGS0adZdsU){:target="\_blank"}

@@ -7,6 +7,8 @@ classes: wide
 
 ### Go Japan in non-populated season may result in cheaper ticket, hotel fee and higher accessability, just cost you a few more annual leave quota.
 
+Buying JP cheap airlines ticket when return also cosiderable
+
 ## Preparation Checklist
 
 1. Water Bottle

@@ -3,8 +3,8 @@ layout: single
 title: "日本語"
 permalink: /japanese/
 classes: wide
+sidebar:
+  nav: Japanese
 ---
 
-[N2 文法あ行](/jpN2-a/){: .btn .btn--info}
-[N2 文法か行](/jpN2-k/){: .btn .btn--info}
-[N2 文法さ行](/jpN2-s/){: .btn .btn--info}
+Only updated when I feels like, not guaranteed completed

@@ -3,6 +3,9 @@ layout: single
 title: "Navigation"
 permalink: /reactnative/Navigation/
 classes: wide
+sidebar:
+  title: "Quick links"
+  nav: ReactAndReactNative
 ---
 
 ## React Navigation

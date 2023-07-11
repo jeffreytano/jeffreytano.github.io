@@ -2,7 +2,10 @@
 layout: single
 title: "Blender Group Project"
 permalink: /blenderGroup/
+sidebar:
+  nav: Games-related
 ---
+
 ![Brain of the universe](/image/brain_of_the_universe.png)
 
 ![Heart of the ocean](/image/heart_of_the_ocean.png)
@@ -16,6 +19,7 @@ permalink: /blenderGroup/
 ![Wing of the sky](/image/wing_of_the_sky.png)
 
 ## Other Blender work
+
 [Self practise](/blenderwork/)
 
 [Lesson Work](/blenderlessonwork/)

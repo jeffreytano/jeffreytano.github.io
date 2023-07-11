@@ -1,8 +1,11 @@
 ---
 layout: single
 title: "React Component Lazy Pack"
-permalink: /reactComponent/
+permalink: /reactnative/component/
 classes: wide
+sidebar:
+  title: "Quick links"
+  nav: ReactAndReactNative
 ---
 
 ## From HSBC mimic

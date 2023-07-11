@@ -1,8 +1,10 @@
 ---
 layout: single
-title: "Hidden Links"
+title: "おいタマァァァァ"
 permalink: /hiddenOtamasan/
 classes: wide
+sidebar:
+  nav: HiddenLinks
 ---
 
-[JapanTrips](/jptrip){: .btn .btn--info}
+You came to the wrong place.

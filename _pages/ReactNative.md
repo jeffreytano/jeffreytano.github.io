@@ -3,6 +3,9 @@ layout: single
 title: "React Native"
 permalink: /reactnative/
 classes: wide
+sidebar:
+  title: "Quick links"
+  nav: ReactAndReactNative
 ---
 
 ## Set up environment
@@ -273,6 +276,6 @@ Make a long list of element scrollable. If item similar items are rendered, it i
 
 ## Reference
 
-[Basic react tutorial](https://www.youtube.com/watch?v=0-S5a0eXPoc){:target="\_blank"} \
-[Login tutorial](https://www.youtube.com/watch?v=ALnJLbjI7EY&list=RDCMUCYSa_YLoJokZAwHhlwJntIA&index=2){:target="\_blank"} This also inc navigation example \
-[Expo Router](https://www.youtube.com/watch?v=yyGS0adZdsU){:target="\_blank"}
+[Basic react tutorial](https://www.youtube.com/watch?v=0-S5a0eXPoc){: .btn .btn--info}{:target="\_blank"} \
+[Login tutorial](https://www.youtube.com/watch?v=ALnJLbjI7EY&list=RDCMUCYSa_YLoJokZAwHhlwJntIA&index=2){:target="\_blank"}{: .btn .btn--info} This also inc navigation example \
+[Expo Router](https://www.youtube.com/watch?v=yyGS0adZdsU){:target="\_blank"}{: .btn .btn--info}

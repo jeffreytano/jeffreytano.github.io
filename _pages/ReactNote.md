@@ -3,9 +3,12 @@ layout: single
 title: "React notes"
 permalink: /reactnote/
 classes: wide
+sidebar:
+  title: "Quick links"
+  nav: ReactAndReactNative
 ---
 
-go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){:target="\_blank"} or [Reactdev](https://react.dev/learn){:target="\_blank"}
+go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){: .btn .btn--info}{:target="\_blank"} or [Reactdev](https://react.dev/learn){: .btn .btn--info}{:target="\_blank"}
 
 Links to different topics:\
 [React component](#an-example-for-a-react-component){: .btn .btn--info}

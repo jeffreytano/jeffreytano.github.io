@@ -5,6 +5,19 @@ permalink: /jptrip/
 classes: wide
 ---
 
+### HKExpress free ticket notes
+
+- prepare personal infomation
+  - Name (C & E)
+  - Tel. no.
+  - email address
+  - credit card number
+  - HKID
+  - passport number (just in case)
+- plan your flight by checking the flight with vacancy
+- set up priority of which option for fast decision
+- **Queuing system will be applied, so queue as early as possible**
+
 ### Go Japan in non-populated season may result in cheaper ticket, hotel fee and higher accessability, just cost you a few more annual leave quota.
 
 Buying JP cheap airlines ticket when return also cosiderable
@@ -36,10 +49,11 @@ Try not to early check-in so that we may get a row of adj. seats
 Low chance to get front seat (experienced in 26/6)
 
 **Arrive time estimate** \
-Go flight - offically 0915 → 1445, delayed 1005(HKT) → 1610(JPT), reach hotel 1800(JPT)
+Go flight - offically 0915 → 1445, delayed 1005(HKT) → 1610(JPT), reach hotel 1800(JPT) \
+i.e. Reach hotel time - est. landing time (inc. delay time) = around 4h (if transport available after landing)
 
-Back flight - offically 1545 → 1940, delayed 1600(JPT) → 1917(HKT), get luggages 2016(HKT) \
-\*note that the back flight land in 3th runway and spended 20 mins after landing
+Back flight - offically 1545 → 1940(JPT), delayed 1600(JPT) → 1917(HKT), get luggages 2016(HKT) \
+\*note that the back flight land in 3th runway and spended 20 mins after landing \
 
 Personal comment: 0915 not really a BiS time, turn out free at 1800 in Japan, sleep more before the day and start flight at around 0400 maybe the best if viable. \
 Which means wake up at 0000 and get out at 0100 and arrive airport at 0200. \

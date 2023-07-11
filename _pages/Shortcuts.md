@@ -3,6 +3,8 @@ layout: single
 title: "VScode shortcuts"
 permalink: /shortcuts/
 classes: wide
+sidebar:
+  nav: Learning
 ---
 
 ## Remote pull and push

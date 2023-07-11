@@ -1,9 +1,5 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Anime watchlist"
-  #   url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
   - title: "Qualification"
     url: /qualification/
   - title: "Work Experience"
@@ -12,6 +8,10 @@ main:
     url: /3Dwork/
   - title: "Unity Work done"
     url: /unitywork/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Anime watchlist"
+  #   url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
 
 defaultsidebar:
   - title: "Portfolio"
@@ -38,3 +38,79 @@ defaultsidebar:
     children:
       - title: "AnimeList"
         url: /
+
+ReactAndReactNative:
+  - title: "React"
+    url: /reactnote/
+  - title: "React-Native"
+    url: /reactnative/
+    children:
+      - title: "React-Native-Navigation"
+        url: /reactnative/Navigation/
+      - title: "Component Lazy Pack"
+        url: /reactnative/component/
+      - title: "Expo Router"
+        url: /expoRouter/
+
+Japanese:
+  - title: "Japanese"
+    url: /japanese/
+    children:
+  - title: "N1"
+    children:
+      - title: "文法あ行"
+        url: /jpN1-a/
+  - title: "N2"
+    children:
+      - title: "あ行"
+        url: /jpN2-a/
+      - title: "か行"
+        url: /jpN2-k/
+      - title: "さ行"
+        url: /jpN2-s/
+      - title: "た行"
+        url: /jpN2-t/
+      - title: "な行"
+        url: /jpN2-n/
+      - title: "は行"
+        url: /jpN2-h/
+      - title: "ま行"
+        url: /jpN2-m/
+      - title: "や行"
+        url: /jpN2-y/
+      - title: "ら行"
+        url: /jpN2-r/
+      - title: "わ行"
+        url: /jpN2-w/
+
+Games-related:
+  - title: "Portforilo"
+    children:
+      - title: "3D Objects"
+        url: /3Dwork/
+      - title: "Unity"
+        url: /unitywork/
+
+Learning:
+  - title: Programming
+    children:
+      - title: "VScode shortcut"
+        url: /shortcuts/
+      - title: "React"
+        url: /reactnote/
+      - title: "React-Native"
+        url: /reactnative/
+  - title: Japanese
+    children:
+      - title: "N2"
+        url: /jpN2-a/
+
+HiddenLinks:
+  - title: Hidden Links
+    children:
+      - title: Trip
+        url: /jptrip/
+      - title: Anime List
+        url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365/
+      - title: Minimal Mistake docs
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/

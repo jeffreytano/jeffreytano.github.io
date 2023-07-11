@@ -3,6 +3,8 @@ layout: single
 title: "日本語"
 permalink: /jpN2-k/
 classes: wide
+sidebar:
+  nav: Japanese
 ---
 
 |---

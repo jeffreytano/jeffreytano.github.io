@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "Qualification"
-    url: /qualification/
-  - title: "Work Experience"
-    url: /workexp/
-  - title: "3D Object Work done"
+  - title: "Learning"
+    url: /learning/
+  - title: "portfolio"
     url: /3Dwork/
-  - title: "Unity Work done"
-    url: /unitywork/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Anime watchlist"

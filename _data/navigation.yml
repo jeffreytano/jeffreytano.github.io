@@ -96,6 +96,8 @@ Learning:
         url: /reactnote/
       - title: "React-Native"
         url: /reactnative/
+      - title: "To-learn list"
+        url: /tolearn/
   - title: Japanese
     children:
       - title: "N2"

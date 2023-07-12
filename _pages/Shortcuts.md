@@ -17,7 +17,7 @@ To update local files from remote repo, type `git pull origin`. If you have loca
 
 ### git push
 
-after editing and saved. You need to commit by `git commit -am "message"` first. And `git push` after commit
+After editing and saved. You need to commit by `git commit -am "message"` first. And `git push` after commit
 
 \* If you have added new file, `git add *` is needed
 

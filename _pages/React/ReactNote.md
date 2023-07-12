@@ -11,12 +11,12 @@ sidebar:
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){: .btn .btn--info}{:target="\_blank"} or [Reactdev](https://react.dev/learn){: .btn .btn--info}{:target="\_blank"}
 
 Links to different topics:\
-[React component](#an-example-for-a-react-component){: .btn .btn--info}
-[Calling component](#to-call-a-component-defined-by-yourself){: .btn .btn--info}
-[Constructor and state](#constructor-of-objects-and-state){: .btn .btn--info}
-[Conditional rendering](#conditional-rendering){: .btn .btn--info}
-[Mapping](#mapping){: .btn .btn--info}
-[Hook](#hook){: .btn .btn--info}
+[React component](#an-example-for-a-react-component){: .btn .btn--info} \
+[Calling component](#to-call-a-component-defined-by-yourself){: .btn .btn--info} \
+[Constructor and state](#constructor-of-objects-and-state){: .btn .btn--info} \
+[Conditional rendering](#conditional-rendering){: .btn .btn--info} \
+[Mapping](#mapping){: .btn .btn--info} \
+[Hook](#hook){: .btn .btn--info} \
 [interface](#interface){: .btn .btn--info}
 
 ## Running a localhost web server

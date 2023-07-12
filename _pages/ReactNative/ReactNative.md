@@ -125,7 +125,7 @@ Wrap components in a Touchable component to apply event triggerer
 | TouchableHighlight | The object will be darken for a second when touched | [TouchableHighlight](https://reactnative.dev/docs/touchablehighlight){: .btn .btn--info}{:target="\_blank"}
 |---
 
-### Style
+### Style and layout [style](https://reactnative.dev/docs/view-style-props){: .btn .btn--info}{:target="\_blank"} [layout](https://reactnative.dev/docs/layout-props){: .btn .btn--info}{:target="\_blank"}
 
 |---
 | Properties | Example | Explain | Internal link
@@ -143,13 +143,14 @@ Wrap components in a Touchable component to apply event triggerer
 | alignItems | "center" | Based on secondary axis
 | alignContent | "center" | similar to alignItems but applies to all line
 | alignSelf | "center" | Self justifyContent
-| flexWrap | "nowrap" |
+| flexWrap | "nowrap" | Wrap content
 | aspectRatio | 1/1 | constrain it to be squared
-| paddingTop | integer
 | borderWidth| 1 |
 | borderColor | "lightblue"|
 | borderRadius | 5 | make the border rounded edge
-| paddingHorizontal / paddingVertical | 20 | padding contain text in horizontal/vertical axis |
+| paddingTop / paddingBottom | 20 | padding content text in vertical axis
+| paddingLeft / paddingRight | 20 | padding content text in horizontal axis
+| paddingHorizontal / paddingVertical | 20 | (padding top + padding bottom) for vertical etc.|
 | marginVertical | 10 | keep distance with other object in vertical axis |
 |---
 

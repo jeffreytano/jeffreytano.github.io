@@ -38,6 +38,9 @@ defaultsidebar:
 ReactAndReactNative:
   - title: "React"
     url: /reactnote/
+    children:
+      - title: Redux
+        url: /Redux/
   - title: "React-Native"
     url: /reactnative/
     children:

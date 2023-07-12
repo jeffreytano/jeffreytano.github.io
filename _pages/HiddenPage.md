@@ -7,4 +7,6 @@ sidebar:
   nav: HiddenLinks
 ---
 
-You came to the wrong place.
+違うところやで
+
+![Oitama](/image/Oitama.jpg)

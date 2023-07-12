@@ -148,6 +148,9 @@ Wrap components in a Touchable component to apply event triggerer
 | paddingTop | integer
 | borderWidth| 1 |
 | borderColor | "lightblue"|
+| borderRadius | 5 | make the border rounded edge
+| paddingHorizontal / paddingVertical | 20 | padding contain text in horizontal/vertical axis |
+| marginVertical | 10 | keep distance with other object in vertical axis |
 |---
 
 <!--

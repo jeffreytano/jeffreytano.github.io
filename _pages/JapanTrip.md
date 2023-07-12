@@ -7,15 +7,15 @@ classes: wide
 
 ### HKExpress free ticket notes
 
-- prepare personal infomation
+- Prepare personal infomation
   - Name (C & E)
   - Tel. no.
   - email address
   - credit card number
   - HKID
   - passport number (just in case)
-- plan your flight by checking the flight with vacancy
-- set up priority of which option for fast decision
+- Plan your flight by checking the flight with vacancy
+- Set up priority of which option for fast decision
 - **Queuing system will be applied, so queue as early as possible**
 
 ### Go Japan in non-populated season may result in cheaper ticket, hotel fee and higher accessability, just cost you a few more annual leave quota.
@@ -40,7 +40,7 @@ Buying JP cheap airlines ticket when return also cosiderable
 7. Outwear
    - keep yourself warm
 
-### HKExpress
+### Luggage weight
 
 Personally only need 20kg package since last time return only 15.9kg (15.7 for W)
 

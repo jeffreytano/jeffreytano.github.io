@@ -22,3 +22,9 @@ Here records what I have learnt before.
 ## 2018 - 2022 PolyU (IMT)
 
 - ENG3343
+
+## 2023 - curren (in Forex Forest)
+
+- React
+  - Redux
+- React Native

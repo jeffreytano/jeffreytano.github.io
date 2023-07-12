@@ -221,3 +221,29 @@ import {Fragment} from "react";
 ### Fragement
 
 use `<Fragment> <Fragment/>` or `<> </>` to wrap more than one element in react components
+
+### Styled-components
+
+A way to applies reusable style.
+
+```
+import styled from  "styled-component";
+
+...
+
+const Title = styled h1` //which create a h1 tag named "Title" with style
+font-size: 1.5em;
+text-align: center:
+color: #BF4F74;
+`
+
+
+render(
+  <Title>
+  Hello
+  </Title>
+)
+```
+
+Used for h1, div, button etc.
+style.div have same meaning with style("div)

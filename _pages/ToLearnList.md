@@ -10,7 +10,9 @@ sidebar:
 ## React
 
 - Native components
--
+  - Styled-components [Link](/reactnote/#styled-components){: .btn .btn--info}{:target="\_blank"}
+  - Wrapper
+  -
 - useEffect
 -
 - Redux

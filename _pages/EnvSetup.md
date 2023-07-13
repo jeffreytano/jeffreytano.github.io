@@ -59,7 +59,9 @@ https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_
    }
    ```
 
-\*\*When you clone repository from github by SSH, output like this may happens
+## generating SSH key for specific hardware
+
+When you clone repository from github by SSH, output like this may happens
 
 ```
 The authenticity of host 'servername (10.00.00.001)' can't be established.

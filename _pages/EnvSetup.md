@@ -7,10 +7,6 @@ sidebar:
   nav: Learning
 ---
 
-https://learn.microsoft.com/en-us/powershell/scripting/learn/remoting/ssh-remoting-in-powershell-core?view=powershell-7.3
-
-https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell
-
 ## Enable SSH connection
 
 1. Install PowerShell v7 [Download Link](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3){: .btn .btn--info}{:target="\_blank"}

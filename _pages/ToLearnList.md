@@ -17,7 +17,9 @@ sidebar:
 -
 - Redux
 - React Router
-- React Format JS
+- Format JS for React
+  - intlProvider
+  - intGlobalProvider
 - React Formik
 - Rest API
 
@@ -29,10 +31,10 @@ sidebar:
 
 ## AWS API
 
-- Lamda
+- Lambda
 - S3 Storage
 - Database structure
 
-## ORM
+## TypeORM
 
 ## Repo management

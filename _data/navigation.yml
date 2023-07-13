@@ -41,6 +41,8 @@ ReactAndReactNative:
     children:
       - title: Redux
         url: /Redux/
+      - title: React Router
+        url: /ReactRouter/
   - title: "React-Native"
     url: /reactnative/
     children:
@@ -93,6 +95,8 @@ Games-related:
 Learning:
   - title: Programming
     children:
+      - title: "Environment Setup"
+        url: /EnvSetup/
       - title: "VScode shortcut"
         url: /shortcuts/
       - title: "React"

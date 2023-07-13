@@ -39,7 +39,7 @@ const counter = (state = 0; action) => { // initialize state value as 0
 let store= createStore(counter);
 ```
 
-## Exaple for 2+ state
+## Example for 2+ state
 
 ```
 import {combineReducers} from "redux";

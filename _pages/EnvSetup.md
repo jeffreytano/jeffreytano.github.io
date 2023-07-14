@@ -11,13 +11,13 @@ sidebar:
 
 1. Install PowerShell v7 [Download Link](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3){: .btn .btn--info}{:target="\_blank"}
 2. Follow steps on [OpenSSH](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell){: .btn .btn--info}
-3. Open PowerShell as admin
+   Open PowerShell as admin
 
    ```console
    Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
    ```
 
-   If OpenSSH Client and Server are not installed. Result will be as follows:
+   If OpenSSH Client and Server are not installed, result will be as follow:
 
    ```console
    Name  : OpenSSH.Client~~~~0.0.1.0
@@ -27,7 +27,7 @@ sidebar:
    State : NotPresent
    ```
 
-4. Then install the Client and Server
+3. Then install the Client and Server
 
    ```console
    Add-WindowsCapability -Online -Name OpenSSH.Client~~~~0.0.1.0
@@ -42,7 +42,7 @@ sidebar:
    RestartNeeded : False
    ```
 
-5. ```
+4. ```
    Start-Service sshd
 
    Set-Service -Name sshd -StartupType 'Automatic'
@@ -55,17 +55,51 @@ sidebar:
    }
    ```
 
-## generating SSH key for specific hardware
+### Generating SSH key for specific hardware
 
-When you clone repository from github by SSH, output like this may happens
+1. **Open PowerShell and run below to generate SSH key**
 
-```
-The authenticity of host 'servername (10.00.00.001)' can't be established.
-ECDSA key fingerprint is SHA256:(<a large string>).
-Are you sure you want to continue connecting (yes/no)?
-```
+   ```
+   ssh-keygen
+   ```
 
-Just type "yes" and it will work fine
+   This command will ask something like directory to save ssh-key and passphrase, you can just keep pressing enter for default directory.
+
+   ```
+   Generating public/private rsa key pair.
+   Enter file in which to save the key (C:\Users\Hairo/.ssh/id_rsa):
+   Created directory 'C:\Users\Hairo/.ssh'.
+   Enter passphrase (empty for no passphrase):
+   Enter same passphrase again:
+   Your identification has been saved in C:\Users\Hairo/.ssh/id_rsa.
+   Your public key has been saved in C:\Users\Hairo/.ssh/id_rsa.pub.
+   The key fingerprint is:
+   ```
+
+   You can find your SSH key in C:/Users/@username/.ssh/ \
+   default name is id_rsa
+
+2. **Open the id_rsa.pub with any text editor and copy the entire SSH key**
+
+   Go to your github account → Setting → SSH and GPG keys → New SSH key. Paste the key into `Key` textbox, choose `Authentication Key` and define any title for it.
+
+3. **Try cloning repository with SSH link**
+
+   Go to your repository, copy the SSH links and run
+
+   ```
+   git clone {your github ssh link}
+   ```
+
+   When you clone repository from github by SSH, output like this may happens
+
+   ```
+   The authenticity of host 'servername (10.00.00.001)' can't be established.
+   ECDSA key fingerprint is SHA256:(<a large string>).
+   Are you sure you want to continue connecting (yes/no)?
+   ```
+
+   Just type "yes" and it will work fine
 
 ## Docker
 

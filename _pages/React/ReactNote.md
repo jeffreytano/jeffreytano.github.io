@@ -247,3 +247,29 @@ render(
 
 Used for h1, div, button etc.
 style.div have same meaning with style("div)
+
+### useEffect
+
+**useEffect(function, dependency?)** \
+useEffect trigger a function when render, if dependency is null, it is triggered every render. If dependency exist, it only rerender when the dependency changes.
+
+Example: \
+
+```
+useEffect(() => {
+  //Runs on every render
+});
+```
+
+```
+useEffect(() => {
+  //Runs only on the first render
+}, []);
+```
+
+```
+useEffect(() => {
+  //Runs on the first render
+  //And any time any dependency value changes
+}, [prop, state]); // dependency can be single var / array
+```

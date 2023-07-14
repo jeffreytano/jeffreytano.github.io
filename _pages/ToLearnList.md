@@ -9,14 +9,16 @@ sidebar:
 
 ## React
 
-- Native components
+- Native components **(half-done)**
   - Styled-components [Link](/reactnote/#styled-components){: .btn .btn--info}{:target="\_blank"}
   - Wrapper
   -
-- useEffect
+- useEffect **(half-done)**
+  - useEffect(function, dependency?)
+  - useEffect trigger a function when render, if dependency is null, it is triggered every render. If dependency exist, it only rerender when the dependency changes
 -
-- Redux
-- React Router
+- Redux **(half-done)**
+- React Router **(half-done)**
 - Format JS for React
   - intlProvider
   - intGlobalProvider

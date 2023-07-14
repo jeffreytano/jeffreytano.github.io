@@ -9,4 +9,4 @@ sidebar:
 
 違うところやで
 
-![Oitama](/image/Oitama.jpg)
+![github:G9,githubFF:Ot9](/image/Oitama.jpg)

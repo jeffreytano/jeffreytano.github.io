@@ -109,6 +109,10 @@ Learning:
     children:
       - title: "N2"
         url: /jpN2-a/
+  - title: Computing
+    children:
+      - title: "Huffman Coding"
+        url: /Learning/Huffman/
 
 HiddenLinks:
   - title: Hidden Links

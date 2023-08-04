@@ -8,6 +8,8 @@ sidebar:
   nav: ReactAndReactNative
 ---
 
+[Redux Reference](https://redux.js.org/tutorials/fundamentals/part-1-overview){:btn .btn--info}
+
 ## Example for one state
 
 ```

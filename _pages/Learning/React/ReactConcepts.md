@@ -56,4 +56,4 @@ name: "Jeffrey",
 balance: 0,
 }
 
-## Promise [reference](https://javascript.info/promise-basics){:btn .btn--info}
+## Promise [reference](https://javascript.info/promise-basics){: .btn .btn--info}{:target="\_blank"}

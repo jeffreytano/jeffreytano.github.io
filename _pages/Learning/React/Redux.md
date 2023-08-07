@@ -8,7 +8,8 @@ sidebar:
   nav: ReactAndReactNative
 ---
 
-[Redux Reference](https://redux.js.org/tutorials/fundamentals/part-1-overview){:btn .btn--info}
+\# **Redux is marked deprecated can the developer recommend using Redux toolkit [RTK](/Rtk/){: .btn .btn--info}{:target="\_blank"}**
+[Redux Reference](https://redux.js.org/tutorials/fundamentals/part-1-overview){: .btn .btn--info}{:target="\_blank"}
 
 ## Example for one state
 

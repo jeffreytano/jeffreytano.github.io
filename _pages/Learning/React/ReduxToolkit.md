@@ -15,3 +15,38 @@ sidebar:
 ```
 npm install @reduxjs/toolkit react-redux
 ```
+
+For each group of reducer, use createSlice()
+
+```
+import { createSlice } from "@reduxjs/toolkit"
+
+export const counterSlice = createSlice({
+  name: counter,
+  initialState: {
+    counter: 0,
+    showCounter: False,
+  },
+  reducers:{
+    reducerOne: (state,action) => {
+      const input = action.payload
+    },
+    reducerTwo: (state,action) =>{
+    },
+  }
+})
+
+export const {reducerOne, reducerTwo} = counterSlice.actions;
+
+export default counterSlice.reducer;
+```
+
+in store.ts,
+
+```
+export default configureStore({
+  reducer:{
+    counter: counterReducer,
+  }
+})
+```

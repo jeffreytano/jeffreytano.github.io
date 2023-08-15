@@ -33,7 +33,9 @@ defaultsidebar:
   - title: "Entertainment"
     children:
       - title: "AnimeList"
-        url: /
+        url: /https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit?usp=sharing/
+      - title: "Lyrics"
+        url: /lyrics/
 
 ReactAndReactNative:
   - title: "React"

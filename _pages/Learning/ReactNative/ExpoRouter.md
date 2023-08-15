@@ -49,6 +49,10 @@ Example:
 
 These two one will render a Text Hello which will redirect to anotherPage with `Message: Hello` and `M2:H` after clicked
 
+## notes
+
+expo router uses file based routing, if you don't want a specific folder appeared in the url, set the folder names with (foldername) like this.
+
 ## Reference
 
 [Tutorial](https://www.youtube.com/watch?v=yyGS0adZdsU&ab_channel=notJust%E2%80%A4dev){: .btn .btn--info}{:target="\_blank"}

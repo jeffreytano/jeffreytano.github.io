@@ -5,7 +5,6 @@ permalink: /Learning/Huffman/
 classes: wide
 sidebar:
   nav: Learning
-mathjax: true
 ---
 
 Huffman coding is a data compression technique that optimize numbers of bit to be assigned for data.

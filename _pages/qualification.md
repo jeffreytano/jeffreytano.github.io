@@ -4,6 +4,10 @@ title: "Qualification"
 permalink: /qualification/
 ---
 
+2023 Sep
+
+N2 qualified 148/180
+
 ## University (2018 - 2022)
 
 The Hong Kong Polytechnic University

@@ -36,7 +36,7 @@ class Square extends React.Component {
 }
 ```
 
-Explaination: Class 'Square' is extending the class React.component and return html codes `<button class = "sqaure"> </button>`
+Explanation: Class 'Square' is extending the class React.component and return html codes `<button class = "square"> </button>`
 
 ## To call a component defined by yourself
 
@@ -80,7 +80,7 @@ class Board extends React.Component {
 
 The value can be array and boolean too.
 
-React component names must start with **capitial letter**, while HTML tag must be **lowercase**.
+React component names must start with **capital letter**, while HTML tag must be **lowercase**.
 
 ## Conditional rendering
 
@@ -163,7 +163,7 @@ another example `const [name, setName] = useState('');`
 
 ## interface
 
-You can define data structure with interface keywork. Exmaple:
+You can define data structure with interface keyword. Example:
 
 ```
 interface Props(){
@@ -177,7 +177,7 @@ interface Props(){
 To call interface in a tag
 
 ```
-let items = ["Kayamori","IZumi","Asakura"]
+let items = ["Kayamori","Izumi","Asakura"]
 let title = "31A"
 const handleSelectItem = (item: string) => {
   console.log(item);
@@ -192,7 +192,7 @@ const handleSelectItem = (item: string) => {
 
 ## props
 
-Use dropdown list as an exmaple
+Use dropdown list as an example
 Remember you take interface props in the function input arg but assign the value when you call the tag
 
 ```
@@ -218,7 +218,7 @@ function DropdownItem(props){
 import {Fragment} from "react";
 ```
 
-### Fragement
+### Fragment
 
 use `<Fragment> <Fragment/>` or `<> </>` to wrap more than one element in react components
 

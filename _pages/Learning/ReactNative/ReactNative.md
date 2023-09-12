@@ -34,7 +34,7 @@ Run `npm start` on terminal, will open a terminal window
 #### Android Studio
 
 - SDK Platforms
-  - LTS Andriod version
+  - LTS Android version
 - SDK Tools
   - Android SDK Build-Tools
   - Android Emulator
@@ -117,10 +117,10 @@ or
 Wrap components in a Touchable component to apply event triggerer
 
 |---
-| Version | Discribe | Docs
+| Version | Describe | Docs
 |-|:-|:-
 | TouchableWithoutFeedback | Just no visual feedback version | [TouchableWithoutFeedback](https://reactnative.dev/docs/touchablewithoutfeedback){: .btn .btn--info}{:target="\_blank"}
-| TouchableNavtiveFeedback | Androids only | [TouchableNavtiveFeedback](https://reactnative.dev/docs/touchablenativefeedback){: .btn .btn--info}{:target="\_blank"}
+| TouchableNativeFeedback | Androids only | [TouchableNativeFeedback](https://reactnative.dev/docs/touchablenativefeedback){: .btn .btn--info}{:target="\_blank"}
 | TouchableOpacity | The object will become half transparent for a second when touched | [TouchableOpacity](https://reactnative.dev/docs/touchableopacity){: .btn .btn--info}{:target="\_blank"}
 | TouchableHighlight | The object will be darken for a second when touched | [TouchableHighlight](https://reactnative.dev/docs/touchablehighlight){: .btn .btn--info}{:target="\_blank"}
 |---

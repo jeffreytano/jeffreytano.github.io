@@ -8,7 +8,7 @@ sidebar:
   nav: ReactAndReactNative
 ---
 
-Here is the offical document [Expo Router docs](https://expo.github.io/router/docs/){: .btn .btn--info}{:target="\_blank"}
+Here is the official document [Expo Router docs](https://expo.github.io/router/docs/){: .btn .btn--info}{:target="\_blank"}
 
 ## Routing
 

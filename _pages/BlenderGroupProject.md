@@ -20,7 +20,7 @@ sidebar:
 
 ## Other Blender work
 
-[Self practise](/blenderwork/)
+[Self practice](/blenderwork/)
 
 [Lesson Work](/blenderlessonwork/)
 

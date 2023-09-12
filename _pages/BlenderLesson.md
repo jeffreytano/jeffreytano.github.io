@@ -14,7 +14,7 @@ sidebar:
 
 ## Other Blender work
 
-[Self practise](/3Dwork/)
+[Self practice](/3Dwork/)
 
 <!-- [Group Project](/blenderGroup/) -->
 

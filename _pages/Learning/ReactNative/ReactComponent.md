@@ -19,7 +19,7 @@ import { TextInput, StyleSheet, Text, View } from "react-native";
 export default function CustomInput({ value, setValue, placeholder, secureTextEntry = false}
 :{value: string; setValue: any; placeholder: string; secureTextEntry?: boolean;}) {
   const styles = StyleSheet.create({
-    constainer: {
+    container: {
       backgroundColor: "white",
       width: "100%",
       borderColor: "#e8e8e8",
@@ -32,7 +32,7 @@ export default function CustomInput({ value, setValue, placeholder, secureTextEn
   });
 
   return (
-    <View style={styles.constainer}>
+    <View style={styles.container}>
       <TextInput
         value={value}
         onChangeText={setValue}

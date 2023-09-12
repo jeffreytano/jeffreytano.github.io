@@ -6,7 +6,12 @@ permalink: /qualification/
 
 2023 Sep
 
-N2 qualified 148/180
+N2 qualified 148/180 
+
+|---
+| Grammar / Vocab | Reading | Listening
+|-|:-|:-
+| 53 / 60 | 35 / 60 | 60 / 60 |
 
 ## University (2018 - 2022)
 

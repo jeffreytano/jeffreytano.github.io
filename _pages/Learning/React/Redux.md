@@ -52,7 +52,7 @@ const allReducer = combineReducers({
     counter: counterReducer,
     isLogged : loggedReducer
 });
-let sctore = createStore(allReducer)
+let store = createStore(allReducer)
 
 ```
 

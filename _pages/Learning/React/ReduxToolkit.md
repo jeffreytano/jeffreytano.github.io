@@ -29,14 +29,14 @@ export const counterSlice = createSlice({
   },
   reducers:{
     reducerOne: (state,action) => {
-      const input = action.payload
+      const input = action.payload.input
     },
     reducerTwo: (state,action) =>{
     },
   }
 })
 
-export const {reducerOne, reducerTwo} = counterSlice.actions;
+export const {reducerOne, reducerTwo} = counterSlice.actions; // remember to export reducer here
 
 export default counterSlice.reducer;
 ```
@@ -49,4 +49,31 @@ export default configureStore({
     counter: counterReducer,
   }
 })
+```
+
+Call reducer
+```
+import useDispatch from 'react-redux'
+
+const dispatch = useDispatch();
+
+const callReducerOne = (input: text) =>{
+  dispatch({input: text})
+}
+```
+or
+```
+const callReducerOne = (input: text) =>{
+  const payload = {
+    input: text
+  }
+  dispatch(payload)
+}
+```
+
+Get redux state
+```
+import useSelector from 'react-redux'
+
+const {counter, showCounter} = useSelector((state:any) => state.counter)
 ```

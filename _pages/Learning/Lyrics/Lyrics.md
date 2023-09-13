@@ -13,11 +13,14 @@ sidebar:
 |:-
 | Before I Rise | やなぎなぎ　\(acoustic ver.: XAI\) | Opening | [Link](#before-i-rise){: .btn .btn--info}
 | Burn My Soul | She is legend | 一章 | [Link](#burn-my-soul){: .btn .btn--info}
-| Burn My Universe | やなぎなぎ | ?? | [Link](#burn-my-universe){: .btn .btn--info}
-| Indigo in Blue | ?? | ?? | ??
-| Sad Creature | | Death Slug phase 2 |
-| Dance! Dance! Dance! | She is Legend | 二章 |
-| ありふれた Battle Song ～いつも戦闘は面倒だ～ | She is Legend |三章 |
+| Burn My Universe | やなぎなぎ |  | [Link](#burn-my-universe){: .btn .btn--info}
+| Indigo in Blue |  |  | [Link](#indigo-in-blue){: .btn .btn--info}
+| Sad Creature | | Death Slug phase 2 | [Link](#sad-creature){: .btn .btn--info}
+| Dance! Dance! Dance! | She is Legend | 二章 |[Link](#dance-dance-dance){: .btn .btn--info}
+| ありふれた Battle Song ～いつも戦闘は面倒だ～ | She is Legend | 三章 | [Link](#ありふれた-battle-song-いつも戦闘は面倒だ){: .btn .btn--info}
+| 贅沢な感情 | XAI | 四章 | [Link](#贅沢な感情){: .btn .btn--info}
+
+
 
 ### Before I Rise
 
@@ -342,38 +345,37 @@ This is me at last!
 </pre>
 
 [Back to top](#table){: .btn .btn--info}
-
+2
 # ありふれた Battle Song ～いつも戦闘は面倒だ～
 <pre>
 Ready Come or Die!
 Ready Come, Break Time！
 
-かじかんで固まった指
-じんじんと疼くこめかみ
-呼ぶ声も届かず暗中模索
-かくれんぼうの鬼か
+かじかんで固まった指　　　　　　　　　　　　被凍住動不了的手指
+じんじんと疼くこめかみ　　　　　　　　　　　陣陣發痛的太陽穴
+呼ぶ声も届かず暗中模索　　　　　　　　　　　呼叫聲也無法傳遞只能在黑暗中摸索
+かくれんぼうの鬼か　　　　　　　　　　　　　還以為自己在捉迷藏當鬼
 
-震えていた日もあった
-ただの影がお化けに見えた
-ひとりじゃ眠れない夜も
+震えていた日もあった　　　　　　　　　　　　曾經有令我發抖的日子
+ただの影がお化けに見えた　　　　　　　　　　單單是影子我也誤認為怪物
+ひとりじゃ眠れない夜も　　　　　　　　　　　獨身一人無法睡覺的夜晚也要
 
-ゆけ胸を張れ
-戦え上向け涙拭け
-ゆけ常勝だ
-突き刺し切り裂き氷漬け
+ゆけ胸を張れ　　　　　　　　　　　　　　　　上吧　挺起胸膛
+戦え上向け涙拭け　　　　　　　　　　　　　　戰鬥吧　奮力向上　拭去淚水
+ゆけ常勝だ　　　　　　　　　　　　　　　　　上吧　我們是常勝將軍
+突き刺し切り裂き氷漬け　　　　　　　　　　　突刺　斬斷　冷凍
 
-ゆけ丁寧に終わらせて
-目指すは五つ星
-ゆけ狙いつけ
-いつも戦闘は面倒だ
+ゆけ丁寧に終わらせて　　　　　　　　　　　　上吧　謹慎地完成
+目指すは五つ星　　　　　　　　　　　　　　　目標是五顆星
+ゆけ狙いつけ　　　　　　　　　　　　　　　　上吧　瞄準鎖定
+いつも戦闘は面倒だ　　　　　　　　　　　　　自古以來戰鬥就是麻煩的
 
-ゆけ剣を抜け
-ザコ戦ばかりで嫌になる
-ゆけあくせく働いて
-今日は美酒に酔おうか
+ゆけ剣を抜け　　　　　　　　　　　　　　　　上吧　出鞘吧
+ザコ戦ばかりで嫌になる　　　　　　　　　　　盡是打小怪真是討厭
+ゆけあくせく働いて　　　　　　　　　　　　　上吧　給我專心一致工作
+今日は美酒に酔おうか　　　　　　　　　　　　今日就用美酒借醉吧
 
-ゆけ未踏の地へ繰り出せ
-ああ今夜は呑んで騒げ
+ゆけ未踏の地へ繰り出せ　　　　　　　　　　　上吧　衝向未知之地吧
 
 Ready Come or Die!
 Ready Come, Break Time！
@@ -427,4 +429,50 @@ Ready Come, Break Time！
 ああ今夜は呑んで騒げ
 
 </pre>
+[Back to top](#table){: .btn .btn--info}
+
+# 贅沢な感情
+
+<pre>
+don’t be afraid
+眩しい陽が差す通りで　君を待つ
+胸を高鳴らせたそんな日も遠く
+
+君に恋してたんだったな　忘れそうだった
+
+残酷なことに翻弄されても
+進むこと辞めちゃ駄目だよね
+
+マイリー・サイラス、豪山火事救援コンサート出演を取りやめ
+
+それなのにこんな失ってばかり
+笑ってたいそれは贅沢だ分かってる
+
+don’t be scared
+優しい風が君の髪膨らませた
+ずっとそばにいると誓ってよ
+いつまでもじゃれ合おう
+
+つまらない夢も語り合った地獄は続くけど
+
+傷つき傷つけそれでも生きる
+人間ってそういうものだから
+
+それでも時には死にたくもなるよ
+難しいことばかりなんだ分かってる
+
+もう世界中が敵になってあたしに襲い来る
+悪夢でも朝になって消え去るならいい
+
+目覚めても続いてくこの夢はなんだろう
+神様も眠ったままだ
+
+眩しい日差しに君が消えてゆく
+その日々に何の意味がある？
+諦め切れずに 何度も呼ぶけど
+もう声は届かない
+残酷な事に 振り回されても
+新しい朝に目覚めなきゃ分かってる
+</pre>
+
 [Back to top](#table){: .btn .btn--info}

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "MILGRAM歌詞"
-permalink: /Milgramlyrics/
+permalink: /MilgramLyrics/
 classes: wide
 sidebar:
   nav: defaultsidebar
@@ -21,13 +21,13 @@ sidebar:
 消えればよかったの　　　　　　　　　　　　　　「要是她消失了就好了」
 もう聞いちゃった　　　　　　　　　　　　　　　被我聽到了
 知っちゃった　　　　　　　　　　　　　　　　　被我知道了
+こんなにも　私はいらない　　　　　　　　　　　我是那麼不被需要
+　　　　　　　　　　　
+特別意味はないの　　　　　　　　　　　　　　　沒有特別針對
+ハズレを引いたの　　　　　　　　　　　　　　　只是我抽到下下籤
+もう聞いちゃった　　　　　　　　　　　　　　　被我聽到了
+知っちゃった　　　　　　　　　　　　　　　　　被我知道了
 こんなにも　　　　　　　　　　　　　　　　　　
-私はいらない
-特別意味はないの
-ハズレを引いたの
-もう聞いちゃった
-知っちゃった
-こんなにも
 私はいらない
 ねえなんで
 痛- 痛- 痛いのやめてくれないの？

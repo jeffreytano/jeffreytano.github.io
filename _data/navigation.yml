@@ -37,7 +37,7 @@ defaultsidebar:
       - title: "ヘブバン歌詞"
         url: /HBRLyrics/
       - title: "Milgram歌詞"
-        url: /MilgramLyrics/
+        url: /milgramLyrics/
 
 ReactAndReactNative:
   - title: "React"

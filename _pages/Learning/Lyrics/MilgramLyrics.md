@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "MILGRAM歌詞"
-permalink: /MilgramLyrics/
+permalink: /milgramLyrics/
 classes: wide
 sidebar:
   nav: defaultsidebar

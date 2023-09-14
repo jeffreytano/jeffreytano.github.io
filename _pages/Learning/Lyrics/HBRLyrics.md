@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "歌詞"
-permalink: /lyrics/
+title: "ヘブバン歌詞"
+permalink: /HBRLyrics/
 classes: wide
 sidebar:
   nav: defaultsidebar

@@ -34,8 +34,10 @@ defaultsidebar:
     children:
       - title: "AnimeList"
         url: /https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit?usp=sharing/
-      - title: "Lyrics"
-        url: /lyrics/
+      - title: "ヘブバン歌詞"
+        url: /HBRLyrics/
+      - title: "Milgram歌詞"
+        url: /MilgramLyrics/
 
 ReactAndReactNative:
   - title: "React"

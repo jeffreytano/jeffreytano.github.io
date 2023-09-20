@@ -8,7 +8,7 @@ sidebar:
 
 <!-- #  -->
 
-## Low-poly horse model
+## Low-poly horse model (Blender)
 
 ![Low Poly Horse](/image/horse.png)
 
@@ -22,24 +22,24 @@ Horse Running
 Horse Walking
 ![Low Poly Horse Walking](/image/horseWalking512.gif)
 
-## Black room scene
+## Black room scene (Blender)
 
 ![Stray scene](/image/StrayScenev2.png)
 
-## Classroom scene
+## Classroom scene (Blender)
 
 ![Classroom scene](/image/classroomv4.png)
 
-## Pen
+## Pen (Blender)
 
 uni Kuru Toga
 ![uni Kuru Toga](/image/pen.png)
 
-## Scene with objects
+## Scene with objects (Blender)
 
 ![Scene](/image/wk03.png)
 
-# 3D scene by 3DsMax
+# 3D scene (3DsMax)
 
 ## School scene
 

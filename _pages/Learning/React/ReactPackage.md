@@ -17,7 +17,6 @@ Redux / Redux Toolkit of course
 ### Form handling
 React Hook Form
 
-
 ### Testing
 Vitest
 React Testing Library

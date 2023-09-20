@@ -23,7 +23,7 @@ export default function Page() {
     <View>
       <View>
         <Link href="/anotherPage?Message=Hello&M2=H">Hello</Link>
-      </View>
+      </View> 
     </View>
   );
 }

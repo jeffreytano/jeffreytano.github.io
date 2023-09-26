@@ -47,8 +47,8 @@ uni Kuru Toga
 
 ## Other Blender work
 
-[Lesson Work](/blenderlessonwork/)
+[Lesson Work](/blenderlessonwork/){: .btn .btn--info}
 
 <!-- [Group Project](/blenderGroup/) -->
 
-[back to home](https://jeffreytano.github.io/)
+[back to home](https://jeffreytano.github.io/){: .btn .btn--info}

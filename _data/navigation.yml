@@ -109,6 +109,8 @@ Learning:
         url: /reactnative/
       - title: "To-learn list"
         url: /tolearn/
+      - title: "TypeORM"
+        url: /Learning/typeorm/
   - title: Japanese
     children:
       - title: "N2"

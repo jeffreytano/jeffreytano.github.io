@@ -25,7 +25,7 @@ sidebar:
 - React Formik
 - Rest API
 
-## CSS (revision)
+## CSS
 
 ## Node
 
@@ -39,6 +39,13 @@ sidebar:
 
 ## TypeORM
 
+## PostMan
+
 ## Docker
+Docker is a virtualization tool that helps local development
+
+- Docker vs VM
+  - VM simulate the whole OS (kernal layer + application layer)
+  - Docker simulate only the application layer of OS and share the kernal of host → light weight
 
 ## Repo management

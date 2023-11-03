@@ -5,7 +5,7 @@ permalink: /expoRouter/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 Here is the official document [Expo Router docs](https://expo.github.io/router/docs/){: .btn .btn--info}{:target="\_blank"}

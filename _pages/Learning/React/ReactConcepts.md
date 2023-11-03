@@ -5,7 +5,7 @@ permalink: /reactconcept/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 ## Type vs interface

@@ -5,7 +5,7 @@ permalink: /reactnote/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 go through the tutorial in [Old Reactdev](https://legacy.reactjs.org/tutorial/tutorial.html){: .btn .btn--info}{:target="\_blank"} or [Reactdev](https://react.dev/learn){: .btn .btn--info}{:target="\_blank"}

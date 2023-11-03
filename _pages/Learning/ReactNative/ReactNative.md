@@ -5,7 +5,7 @@ permalink: /reactnative/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 ## Set up environment
@@ -252,13 +252,13 @@ Example
 
   const Item = ({ item }: ItemProps) => (
     <View
-      style={{
+      style= { {
         backgroundColor: "#CCCCCC",
         padding: 10,
         marginVertical: 2,
         marginHorizontal: 4,
         flexDirection: "row",
-      }}
+      } } 
     >
       <Text>
         {item.chName}

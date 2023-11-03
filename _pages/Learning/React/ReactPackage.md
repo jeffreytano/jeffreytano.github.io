@@ -5,7 +5,7 @@ permalink: /Reactpackage/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 Updated in 31-8-2023

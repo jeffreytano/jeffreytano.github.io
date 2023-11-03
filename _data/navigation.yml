@@ -21,6 +21,7 @@ defaultsidebar:
   - title: "Work Experience"
     url: /workexp/
   - title: Learning
+    url: /learning/
     children:
       - title: "日本語"
         url: /japanese/
@@ -58,6 +59,8 @@ ReactAndReactNative:
         url: /expoRouter/
 
 Japanese:
+  - title: Learning
+    url: /learning/
   - title: "Japanese"
     url: /japanese/
     children:
@@ -99,7 +102,7 @@ Games-related:
 Learning:
   - title: Programming
     children:
-      - title: "Environment Setup"
+      - title: Environment Setup for Development
         url: /EnvSetup/
       - title: "VScode shortcut"
         url: /shortcuts/
@@ -111,6 +114,8 @@ Learning:
         url: /tolearn/
       - title: "TypeORM"
         url: /Learning/typeorm/
+      - title: "Rust"
+        url: /learning/rustEnv/
   - title: Japanese
     children:
       - title: "N2"
@@ -131,3 +136,34 @@ HiddenLinks:
         url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
       - title: Max's blog
         url: https://vinesmsuic.github.io/
+
+Programming:
+  - title: Learning
+    url: /learning/
+    children:
+      - title: "Huffman Coding"
+        url: /Learning/Huffman/
+  - title: Rust
+    children:
+      - title: Environment Setup for Rust
+        url: /learning/rustEnv/
+      - title: Rust Lv1
+        url: /learning/rust/
+  - title: React
+    url: /reactnote/
+    children:
+      - title: Redux
+        url: /Redux/
+      - title: React Router
+        url: /ReactRouter/
+  - title: "React-Native"
+    url: /reactnative/
+    children:
+      - title: "React-Native-Navigation"
+        url: /reactnative/Navigation/
+      - title: "Component Lazy Pack"
+        url: /reactnative/component/
+      - title: "Expo Router"
+        url: /expoRouter/
+  - title: "TypeORM"
+    url: /Learning/typeorm/

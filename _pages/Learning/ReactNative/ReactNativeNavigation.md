@@ -5,7 +5,7 @@ permalink: /reactnative/Navigation/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 ## React Navigation

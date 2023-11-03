@@ -5,7 +5,7 @@ permalink: /Rtk/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 [reference doc](https://redux-toolkit.js.org/introduction/getting-started){: .btn .btn--info}{:target="\_blank"}

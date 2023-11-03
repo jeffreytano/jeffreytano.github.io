@@ -5,7 +5,7 @@ permalink: /reactnative/component/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 ## From HSBC mimic

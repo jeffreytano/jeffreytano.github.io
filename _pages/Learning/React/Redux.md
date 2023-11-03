@@ -5,7 +5,7 @@ permalink: /Redux/
 classes: wide
 sidebar:
   title: "Quick links"
-  nav: ReactAndReactNative
+  nav: Programming
 ---
 
 \# **Redux is marked deprecated can the developer recommend using Redux toolkit [RTK](/Rtk/){: .btn .btn--info}{:target="\_blank"}**

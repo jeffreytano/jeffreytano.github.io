@@ -27,8 +27,6 @@ defaultsidebar:
         url: /japanese/
       - title: "React"
         url: /reactnote/
-      - title: "React Native"
-        url: /reactnative/
       - title: "Shortcuts for VScode"
         url: /shortcuts/
   - title: "Entertainment"
@@ -40,23 +38,23 @@ defaultsidebar:
       - title: "Milgram歌詞"
         url: /milgramLyrics/
 
-ReactAndReactNative:
-  - title: "React"
-    url: /reactnote/
-    children:
-      - title: Redux
-        url: /Redux/
-      - title: React Router
-        url: /ReactRouter/
-  - title: "React-Native"
-    url: /reactnative/
-    children:
-      - title: "React-Native-Navigation"
-        url: /reactnative/Navigation/
-      - title: "Component Lazy Pack"
-        url: /reactnative/component/
-      - title: "Expo Router"
-        url: /expoRouter/
+# ReactAndReactNative:
+#   - title: "React"
+#     url: /reactnote/
+#     children:
+#       - title: Redux
+#         url: /Redux/
+#       - title: React Router
+#         url: /ReactRouter/
+#   - title: "React-Native"
+#     url: /reactnative/
+#     children:
+#       - title: "React-Native-Navigation"
+#         url: /reactnative/Navigation/
+#       - title: "Component Lazy Pack"
+#         url: /reactnative/component/
+#       - title: "Expo Router"
+#         url: /expoRouter/
 
 Japanese:
   - title: Learning
@@ -116,6 +114,8 @@ Learning:
         url: /Learning/typeorm/
       - title: "Rust"
         url: /learning/rustEnv/
+      - title: "Tauri"
+        url: /learning/tauriEnv/
   - title: Japanese
     children:
       - title: "N2"
@@ -143,10 +143,12 @@ Programming:
     children:
       - title: "Huffman Coding"
         url: /Learning/Huffman/
-  - title: Rust
+  - title: Rust & Tauri
     children:
       - title: Environment Setup for Rust
         url: /learning/rustEnv/
+      - title: Environment Setup for Tauri
+        url: /learning/tauriEnv/
       - title: Rust Lv1
         url: /learning/rust/
   - title: React

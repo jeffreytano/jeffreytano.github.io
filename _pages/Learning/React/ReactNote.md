@@ -25,12 +25,11 @@ go to the directory of the project and `npm run dev`
 
 ## An example for a react component
 
-```
+```typescript
 class Square extends React.Component {
   render() {
     return (
-      <button className="square"
-      </button>
+      <button className="square"/>
     );
   }
 }
@@ -40,7 +39,7 @@ Explanation: Class 'Square' is extending the class React.component and return ht
 
 ## To call a component defined by yourself
 
-```
+```typescript
 class Board extends React.Component {
   renderSquare(i) {
     return <Square/>;
@@ -52,7 +51,7 @@ Just call <Square/> if you defined a class **Square**
 
 ## Constructor of objects and state
 
-```
+```typescript
 class Square extends React.Component {
   constructor(props){
     super(props);
@@ -65,7 +64,7 @@ In the constructor of a object, you may set state by editing `this.state` by it 
 
 To retrieve the state value, just call `this.state.value`, note that you can define state value by self-defined key like the following
 
-```
+```typescript
 class Board extends React.Component {
 
   constructor(props){
@@ -84,7 +83,7 @@ React component names must start with **capital letter**, while HTML tag must be
 
 ## Conditional rendering
 
-```
+```typescript
 let content;
 if (isLoggedIn) {
   content = <AdminPanel />;
@@ -100,7 +99,7 @@ return (
 
 or
 
-```
+```typescript
 <div>
   {isLoggedIn ? (
     <AdminPanel />
@@ -112,7 +111,7 @@ or
 
 if your no need the else statement, this also work
 
-```
+```typescript
 <div>
   {isLoggedIn && <AdminPanel />}
 </div>
@@ -120,7 +119,7 @@ if your no need the else statement, this also work
 
 ## Mapping
 
-```
+```typescript
 function ListGroup() {
   const items = [
     "Kayamori Ruka",
@@ -151,7 +150,7 @@ Addition: `array.map( (item,index) => (<li>{index}: {item}</li> )` can also retu
 useState return an array that contains one value and one function
 In a react component `ListGroup()` for example
 
-```
+```typescript
 function ListGroup(){
   const [selectedIndex, setSelectedIndex] = useState(-1);
   //-1 being default refers to no selected item
@@ -165,7 +164,7 @@ another example `const [name, setName] = useState('');`
 
 You can define data structure with interface keyword. Example:
 
-```
+```typescript
 interface Props(){
   items: string[];
   title: string;
@@ -176,7 +175,7 @@ interface Props(){
 
 To call interface in a tag
 
-```
+```typescript
 let items = ["Kayamori","Izumi","Asakura"]
 let title = "31A"
 const handleSelectItem = (item: string) => {
@@ -195,12 +194,12 @@ const handleSelectItem = (item: string) => {
 Use dropdown list as an example
 Remember you take interface props in the function input arg but assign the value when you call the tag
 
-```
+```typescript
 function DropdownItem(props){
   return(
     <li className = 'dropdownItem'>
-      <img src={props.img}/>
-      <a> {props.text} </a>
+      <img src={props.img} />
+      <a> {props.text} />
     </li>
   );
  }
@@ -214,7 +213,7 @@ function DropdownItem(props){
 
 ### tldr
 
-```
+```typescript
 import {Fragment} from "react";
 ```
 
@@ -226,17 +225,17 @@ use `<Fragment> <Fragment/>` or `<> </>` to wrap more than one element in react 
 
 A way to applies reusable style.
 
-```
+```typescript
 import styled from  "styled-component";
 
 ...
 
-const Title = styled h1` //which create a h1 tag named "Title" with style
+const Title = styled h1` 
 font-size: 1.5em;
 text-align: center:
 color: #BF4F74;
 `
-
+//which create a h1 tag named "Title" with style
 
 render(
   <Title>
@@ -255,19 +254,19 @@ useEffect trigger a function when render, if dependency is null, it is triggered
 
 Example: \
 
-```
+```typescript
 useEffect(() => {
   //Runs on every render
 });
 ```
 
-```
+```typescript
 useEffect(() => {
   //Runs only on the first render
 }, []);
 ```
 
-```
+```typescript
 useEffect(() => {
   //Runs on the first render
   //And any time any dependency value changes

@@ -23,7 +23,7 @@ Here records what I have learnt before.
 
 - ENG3343
 
-## 2023 - curren (in Forex Forest)
+## 2023 - current (in Forex Forest)
 
 - React
   - Redux

@@ -154,18 +154,21 @@ Programming:
   - title: React
     url: /reactnote/
     children:
+      - title: Typescript
+        url: /learning/typescript/
+      - title: "React-Native"
+        url: /reactnative/
+      - title: React concept
+        url: /reactconcept/
       - title: Redux
         url: /Redux/
       - title: React Router
         url: /ReactRouter/
-  - title: "React-Native"
-    url: /reactnative/
-    children:
       - title: "React-Native-Navigation"
         url: /reactnative/Navigation/
-      - title: "Component Lazy Pack"
-        url: /reactnative/component/
       - title: "Expo Router"
         url: /expoRouter/
+      - title: "Component Lazy Pack"
+        url: /reactnative/component/
   - title: "TypeORM"
     url: /Learning/typeorm/

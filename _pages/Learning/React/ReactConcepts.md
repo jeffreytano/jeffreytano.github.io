@@ -15,14 +15,14 @@ sidebar:
 `type` and `interface` have different syntax \
 For type
 
-```
+```typescript
 type User = {
     userID: string;
     userPassword: string;
 }
 ```
 
-```
+```typescript
 interface User{
     userID: string;
 }
@@ -32,7 +32,7 @@ interface User{
 
 type can do union and intersection
 
-```
+```typescript
 type Random = {
     Animal: 'Dog' | 'Cat'
     anything : string | number | boolean
@@ -43,6 +43,7 @@ Usage:
 
 #### interface - Declaration merging
 
+```typescript
 interface User{
 name: string
 }
@@ -55,5 +56,7 @@ const Me: User = {
 name: "Jeffrey",
 balance: 0,
 }
+```
+
 
 ## Promise [reference](https://javascript.info/promise-basics){: .btn .btn--info}{:target="\_blank"}

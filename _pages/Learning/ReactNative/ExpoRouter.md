@@ -39,7 +39,7 @@ In href, / + {target} + ? + {item.key} + = + {value}
 
 Example:
 
-```
+```tsx
 <Link href={\{
   pathname: "/anotherPage",
   params: {Message: 'Hello',M2: 'H'},

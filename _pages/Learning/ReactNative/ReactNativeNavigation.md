@@ -21,7 +21,7 @@ Code Example
 Create a tsx file, navigation.tsx for example \
 Use a `NavigationContainer` to wrap the contain you wish to have navigation function. Below is a bottom tab example
 
-```
+```tsx
 const Tab = createBottomTabNavigator();
 
 function TabGroup() {
@@ -46,7 +46,7 @@ export default Navigation;
 
 In the App.tsx, just set up a Navigation Tab
 
-```
+```tsx
 export default function App() {
   return (
     <Navigation/>

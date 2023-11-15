@@ -138,11 +138,6 @@ HiddenLinks:
         url: https://vinesmsuic.github.io/
 
 Programming:
-  - title: Learning
-    url: /learning/
-    children:
-      - title: "Huffman Coding"
-        url: /Learning/Huffman/
   - title: Rust & Tauri
     children:
       - title: Environment Setup for Rust

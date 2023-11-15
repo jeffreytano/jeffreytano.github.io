@@ -41,9 +41,9 @@ Example:
 
 ```
 <Link href={\{
-          pathname: "/anotherPage",
-          params: {Message: 'Hello',M2: 'H'},
-        }\}>Hello</Link>
+  pathname: "/anotherPage",
+  params: {Message: 'Hello',M2: 'H'},
+}\}>Hello</Link>
 //ignore the "\"character
 ```
 

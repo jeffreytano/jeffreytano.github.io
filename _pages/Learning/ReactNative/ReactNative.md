@@ -21,8 +21,11 @@ sidebar:
 [Expo docs](https://docs.expo.dev/){: .btn .btn--info }{:target="\_blank"}
 
 - Require node ver.12 or higher \
-  `sudo npm i -g expo-cli` // which is used to setup expo, no need to run every time \
-  `expo init //project name//` or
+  ```console
+  sudo npm i -g expo-cli // which is used to setup expo, no need to run every time \
+  expo init //project name//
+  ``` 
+  or
 
 After creating project, open the project in vscode. For example `cd //projectName//` and `code .` \
 Run `npm start` on terminal, will open a terminal window
@@ -176,7 +179,7 @@ Wrap components in a Touchable component to apply event triggerer
 
 or
 
-```
+```tsx
 <View style = {style.container}> </View>
 
 const styles = StyleSheet.create({
@@ -189,7 +192,7 @@ container: {
 
 ##### Special mention
 
-```
+```tsx
 <View style = {[style.container, {backgroundColor: "orange"}]}> </View>
 
 const styles = StyleSheet.create({
@@ -245,8 +248,8 @@ const DATA: ChData[] = [
 `renderItem` receive template for each item \
 Example
 
-```
-  const oneIetm = ({ item }: { item: ChData }) => <Item item={item} />;
+```tsx
+  const oneItem = ({ item }: { item: ChData }) => <Item item={item} />;
 
   ...
 
@@ -276,7 +279,7 @@ keyExtractor={(data) => data.id}
 
 ### ScrollView
 
-Make a long list of element scrollable. If item similar items are rendered, it is recommanded to use flatlist
+Make a long list of element scrollable. If item similar items are rendered, it is recommended to use flatlist
 
 ## Reference
 

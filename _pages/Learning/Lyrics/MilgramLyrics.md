@@ -13,7 +13,7 @@ sidebar:
 |:-
 | 弱肉共食 \(Weakness\) | 櫻井 遥　\(堀江 瞬\) | First Trial | [Link](#弱肉共食-weakness){: .btn .btn--info}
 | Umbilical | 樫木 優乃　\(相坂 優歌\) | First Trial | [Link](#umbilical){: .btn .btn--info}
-| 事変上等 \(Bring it on\) |梶山 風汰\(Arthur Conant Lounsbery\) First Trial | [Link](#事変上等-bring-it-on){: .btn .btn--info}
+| 事変上等 \(Bring it on\) |梶山 風汰\(Arthur Conant Lounsbery\) | First Trial | [Link](#事変上等-bring-it-on){: .btn .btn--info}
 | After Pain | 楠 夢羽　\(香里 有佐\) | First Trial | [Link](#after-pain){: .btn .btn--info}
 
 ###  弱肉共食 (Weakness)

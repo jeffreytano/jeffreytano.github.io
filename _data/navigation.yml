@@ -100,6 +100,8 @@ Games-related:
 Learning:
   - title: Programming
     children:
+      - title: Git Operation
+        url: /learning/git/
       - title: Environment Setup for Development
         url: /EnvSetup/
       - title: "VScode shortcut"
@@ -138,6 +140,14 @@ HiddenLinks:
         url: https://vinesmsuic.github.io/
 
 Programming:
+  - title: Github
+    children:
+      - title: Git Operation
+        url: /learning/git/
+      - title: Environment Setup for Development
+        url: /EnvSetup/
+      - title: "VScode shortcut"
+        url: /shortcuts/
   - title: Rust & Tauri
     children:
       - title: Environment Setup for Rust

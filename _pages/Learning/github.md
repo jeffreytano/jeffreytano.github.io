@@ -33,3 +33,11 @@ delete branch `git branch -d {branch name}`
 
 switch and create new branch `git switch -c {new branch name}`
 
+### Remove a commit / force push old commit
+
+```
+git reset --hard {commitID}
+git push --force
+```
+
+

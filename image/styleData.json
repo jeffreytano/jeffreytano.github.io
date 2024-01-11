@@ -3,16 +3,16 @@
   "styles":[
     {
       "id": 1,
-      "stylename": "circuit burst"
+      "styleName": "circuit burst"
     },
     {
       "id":2,
-      "stylename": "dawn",
+      "styleName": "dawn",
       "rare": "SS"
     },
     { 
       "id":3,
-      "stylename": "ryuusei",
+      "styleName": "ryuusei",
       "rare": "SS"
     }
   ]

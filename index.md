@@ -3,7 +3,6 @@ layout: home
 author_profile: true
 # permalink: /index/
 sidebar:
-  title: "Quick links"
   nav: defaultsidebar
 ---
 Introduction in English

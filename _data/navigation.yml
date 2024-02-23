@@ -126,6 +126,8 @@ Learning:
     children:
       - title: "Huffman Coding"
         url: /Learning/Huffman/
+      - title: "Algorithm Concept"
+        url: /Learning/AlgoConcept/
 
 HiddenLinks:
   - title: Hidden Links

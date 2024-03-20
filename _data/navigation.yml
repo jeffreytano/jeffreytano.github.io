@@ -128,6 +128,11 @@ Learning:
         url: /Learning/Huffman/
       - title: "Algorithm Concept"
         url: /Learning/AlgoConcept/
+  - title: "leetcode"
+    url: /Learning/leetcode/index
+    children:
+      - title: "424. Longest Repeating Character Replacement"
+        url: /Learning/leetcode/424/
 
 HiddenLinks:
   - title: Hidden Links
@@ -183,4 +188,4 @@ Programming:
     url: /Learning/leetcode/index
     children:
       - title: "424. Longest Repeating Character Replacement"
-        url: "/Learning/leetcode/424/"
+        url: /Learning/leetcode/424/

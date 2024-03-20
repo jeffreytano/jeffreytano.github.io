@@ -179,3 +179,8 @@ Programming:
         url: /reactnative/component/
   - title: "TypeORM"
     url: /Learning/typeorm/
+  - title: "leetcode"
+    url: /Learning/leetcode/index
+    children:
+      - title: "424. Longest Repeating Character Replacement"
+        url: "/Learning/leetcode/424/"

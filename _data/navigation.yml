@@ -131,8 +131,8 @@ Learning:
   - title: "leetcode"
     url: /Learning/leetcode/index
     children:
-      - title: "424. Longest Repeating Character Replacement"
-        url: /Learning/leetcode/424/
+      - title: "424"
+        url: /Learning/leetcode/424
 
 HiddenLinks:
   - title: Hidden Links
@@ -187,5 +187,5 @@ Programming:
   - title: "leetcode"
     url: /Learning/leetcode/index
     children:
-      - title: "424. Longest Repeating Character Replacement"
-        url: /Learning/leetcode/424/
+      - title: "424"
+        url: /Learning/leetcode/424

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "424. Longest Repeating Character Replacement"
+title: "Longest Repeating Character Replacement (424 - Medium)"
 permalink: /Learning/leetcode/424
 classes: wide
 sidebar:
@@ -8,6 +8,8 @@ sidebar:
 ---
 
 ##### Intro
+
+Leetcode problem 424 - [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/){: .btn .btn--info}{:target="\_blank"}
 
 Define a function `check_alphabet` to check the longest range found in `s` for the target character.
 
@@ -28,7 +30,7 @@ Add index -1 and len(s) as the **imaginary non-matching character** to bound the
 
 So, for target = 'A', we will get indexes = \[-1,2,4,5,7\]
 
-if there are less or equal number of indexes than **k**, which mean all non-matching charcter can be replaced. So we just return the length of `s`
+if there are less or equal number of indexes than **k**, which mean all non-matching character can be replaced. So we just return the length of `s`
 
 we start scanning with fixing window size,
 

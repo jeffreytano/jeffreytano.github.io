@@ -133,6 +133,8 @@ Learning:
     children:
       - title: "424"
         url: /Learning/leetcode/424
+      - title: "347"
+        url: /Learning/leetcode/347
 
 HiddenLinks:
   - title: Hidden Links

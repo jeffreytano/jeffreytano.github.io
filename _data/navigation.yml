@@ -4,6 +4,8 @@ main:
     url: /learning/
   - title: "Portfolio"
     url: /3Dwork/
+  - title: "日本語"
+    url: /jpIndex/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Anime watchlist"

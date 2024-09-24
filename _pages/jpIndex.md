@@ -7,9 +7,11 @@ sidebar:
   nav: defaultsidebar
 ---
 
-潘正樂 Pun Ching Lok, Jeffrey
+潘正樂 Pun Ching Lok, ジェフリー
 
-## 最近職務
+[資格](/qualification/){: .btn .btn--inverse} - JLPT N2 合格
+
+## 勤務
 
 金融会社の Forex Forest Limited でソフトウェア開発者として働いていました。
 

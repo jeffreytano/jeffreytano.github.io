@@ -1,0 +1,189 @@
+# main links
+main:
+  - title: "Learning"
+    url: /learning/
+  - title: "Portfolio"
+    url: /3Dwork/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Anime watchlist"
+  #   url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365
+
+defaultsidebar:
+  - title: "Portfolio"
+    children:
+      - title: "Blender"
+        url: /3Dwork/
+      - title: "Unity"
+        url: /unitywork/
+  - title: "Infos"
+    children:
+      - title: Qualification
+        url: /qualification/
+      - title: "Work Experience History"
+        url: /workexp/
+  # - title: Learning
+  #   url: /learning/
+  # children:
+  #   - title: "日本語"
+  #     url: /japanese/
+  #   - title: "React"
+  #     url: /reactnote/
+  #   - title: "Shortcuts for VScode"
+  #     url: /shortcuts/
+  # - title: "Entertainment"
+  #   children:
+  #     - title: "AnimeList"
+  #       url: /https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit?usp=sharing/
+  #     - title: "ヘブバン歌詞"
+  #       url: /HBRLyrics/
+  #     - title: "Milgram歌詞"
+  #       url: /milgramLyrics/
+
+# ReactAndReactNative:
+#   - title: "React"
+#     url: /reactnote/
+#     children:
+#       - title: Redux
+#         url: /Redux/
+#       - title: React Router
+#         url: /ReactRouter/
+#   - title: "React-Native"
+#     url: /reactnative/
+#     children:
+#       - title: "React-Native-Navigation"
+#         url: /reactnative/Navigation/
+#       - title: "Component Lazy Pack"
+#         url: /reactnative/component/
+#       - title: "Expo Router"
+#         url: /expoRouter/
+
+Japanese:
+  - title: Learning
+    url: /learning/
+  - title: "Japanese"
+    url: /japanese/
+    children:
+  - title: "N1"
+    children:
+      - title: "文法あ行"
+        url: /jpN1-a/
+  - title: "N2"
+    children:
+      - title: "あ行"
+        url: /jpN2-a/
+      - title: "か行"
+        url: /jpN2-k/
+      - title: "さ行"
+        url: /jpN2-s/
+      - title: "た行"
+        url: /jpN2-t/
+      - title: "な行"
+        url: /jpN2-n/
+      - title: "は行"
+        url: /jpN2-h/
+      - title: "ま行"
+        url: /jpN2-m/
+      - title: "や行"
+        url: /jpN2-y/
+      - title: "ら行"
+        url: /jpN2-r/
+      - title: "わ行"
+        url: /jpN2-w/
+
+Learning:
+  - title: Programming
+    children:
+      - title: Git Operation
+        url: /learning/git/
+      - title: Environment Setup for Development
+        url: /EnvSetup/
+      - title: "VScode shortcut"
+        url: /shortcuts/
+      - title: "React"
+        url: /reactnote/
+      - title: "React-Native"
+        url: /reactnative/
+      - title: "To-learn list"
+        url: /tolearn/
+      - title: "TypeORM"
+        url: /Learning/typeorm/
+      - title: "Rust"
+        url: /learning/rustEnv/
+      - title: "Tauri"
+        url: /learning/tauriEnv/
+  - title: Japanese
+    children:
+      - title: "N2"
+        url: /jpN2-a/
+  - title: Computing
+    children:
+      - title: "Huffman Coding"
+        url: /Learning/Huffman/
+      - title: "Algorithm Concept"
+        url: /Learning/AlgoConcept/
+  - title: "leetcode"
+    url: /Learning/leetcode/index
+    children:
+      - title: "424"
+        url: /Learning/leetcode/424
+      - title: "3472"
+        url: /Learning/leetcode/347
+
+HiddenLinks:
+  - title: Hidden Links
+    children:
+      - title: Trip
+        url: /jptrip/
+      - title: Anime List
+        url: https://docs.google.com/spreadsheets/d/1P4L4FYOrJwDEMvfRcG9AUAfkHjv0xL_djFZg3lio7nY/edit#gid=1723438365/
+      - title: Minimal Mistake docs
+        url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+      - title: Max's blog
+        url: https://vinesmsuic.github.io/
+
+Programming:
+  - title: Github
+    children:
+      - title: Git Operation
+        url: /learning/git/
+      - title: Environment Setup for Development
+        url: /EnvSetup/
+      - title: "VScode shortcut"
+        url: /shortcuts/
+  - title: Rust & Tauri
+    children:
+      - title: Environment Setup for Rust
+        url: /learning/rustEnv/
+      - title: Environment Setup for Tauri
+        url: /learning/tauriEnv/
+      - title: Rust Lv1
+        url: /learning/rust/
+  - title: React
+    url: /reactnote/
+    children:
+      - title: Typescript
+        url: /learning/typescript/
+      - title: "React-Native"
+        url: /reactnative/
+      - title: React concept
+        url: /reactconcept/
+      - title: Redux
+        url: /Redux/
+      - title: React Router
+        url: /ReactRouter/
+      - title: "React-Native-Navigation"
+        url: /reactnative/Navigation/
+      - title: "Expo Router"
+        url: /expoRouter/
+      - title: "Component Lazy Pack"
+        url: /reactnative/component/
+  - title: "TypeORM"
+    url: /Learning/typeorm/
+  - title: "leetcode"
+    url: /Learning/leetcode/index
+    children:
+      - title: "424"
+        url: /Learning/leetcode/424
+      - title: "347"
+        url: /Learning/leetcode/347

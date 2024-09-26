@@ -19,7 +19,7 @@ I was working in a financial company, Forex Forest Limited as a software develop
 
 Specified languages used: Python, Typescript, Rust, CSS.
 
-## Bachlor
+## Bachelor
 
 A Bachelor from the Hong Kong Polytechnic University, Internet and Multimedia Technology. \
 What I studied in university was signal processing and programming, \
